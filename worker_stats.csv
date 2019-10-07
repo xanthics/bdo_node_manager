@@ -1,0 +1,6 @@
+zone,name,workspeed,movespeed,stamina
+all,150 ws goblin art,150,7.63,15
+all,30 artisan goblin,143.5,7.63,15
+all,30 artisan human,104.5,4.5,23
+all,100 ws giant art,101,3.78,35
+grana,art papu,160,7.5,17
