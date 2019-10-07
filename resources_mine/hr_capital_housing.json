@@ -1,0 +1,3388 @@
+{
+    "Altinova": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "Kusha, 1-1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "6-1",
+                "Kusha, 1-1"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "6-2"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "6-2",
+                "Kusha, 1-1"
+            ],
+            "cp": 4
+        },
+        "6": {
+            "chain": [
+                "6-3 1st Floor"
+            ],
+            "cp": 4
+        },
+        "7": {
+            "chain": [
+                "6-3 1st Floor",
+                "Kusha, 1-1"
+            ],
+            "cp": 5
+        },
+        "8": {
+            "chain": [
+                "6-4"
+            ],
+            "cp": 7
+        },
+        "9": {
+            "chain": [
+                "6-4"
+            ],
+            "cp": 7
+        },
+        "10": {
+            "chain": [
+                "6-4"
+            ],
+            "cp": 7
+        },
+        "11": {
+            "chain": [
+                "6-4",
+                "Kusha, 1-1"
+            ],
+            "cp": 8
+        },
+        "12": {
+            "chain": [
+                "10-1",
+                "6-4",
+                "Kusha, 1-1"
+            ],
+            "cp": 10
+        },
+        "13": {
+            "chain": [
+                "Abun, 1-3",
+                "6-4"
+            ],
+            "cp": 11
+        },
+        "14": {
+            "chain": [
+                "Abun, 1-3",
+                "6-4",
+                "Kusha, 1-1"
+            ],
+            "cp": 12
+        },
+        "15": {
+            "chain": [
+                "Abun, 1-3",
+                "10-1",
+                "6-4",
+                "Kusha, 1-1"
+            ],
+            "cp": 14
+        },
+        "16": {
+            "chain": [
+                "Abun, 1-3",
+                "10-2",
+                "6-4"
+            ],
+            "cp": 16
+        },
+        "17": {
+            "chain": [
+                "Abun, 1-3",
+                "10-2",
+                "6-4",
+                "Kusha, 1-1"
+            ],
+            "cp": 17
+        }
+    },
+    "Muiquun": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        }
+    },
+    "Ancado Inner Harbor": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "1-1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "1-2"
+            ],
+            "cp": 4
+        },
+        "4": {
+            "chain": [
+                "1-2"
+            ],
+            "cp": 4
+        }
+    },
+    "Arehaza Town": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "2-2"
+            ],
+            "cp": 4
+        },
+        "3": {
+            "chain": [
+                "2-2"
+            ],
+            "cp": 4
+        },
+        "4": {
+            "chain": [
+                "1-2",
+                "2-2"
+            ],
+            "cp": 8
+        }
+    },
+    "Calpheon": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "South Gate, 2 1st Floor"
+            ],
+            "cp": 3
+        },
+        "6": {
+            "chain": [
+                "South Gate, 2 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 4
+        },
+        "7": {
+            "chain": [
+                "South Gate, 2 1st Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 5
+        },
+        "8": {
+            "chain": [
+                "South Gate, 2 2nd Floor"
+            ],
+            "cp": 5
+        },
+        "9": {
+            "chain": [
+                "South Gate, 2 2nd Floor"
+            ],
+            "cp": 5
+        },
+        "10": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 6
+        },
+        "11": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 7
+        },
+        "12": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 8
+        },
+        "13": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 9
+        },
+        "14": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 10
+        },
+        "15": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor"
+            ],
+            "cp": 11
+        },
+        "16": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 7-6 2nd Floor"
+            ],
+            "cp": 12
+        },
+        "17": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 7-6 2nd Floor"
+            ],
+            "cp": 12
+        },
+        "18": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 2nd Floor"
+            ],
+            "cp": 13
+        },
+        "19": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 2nd Floor"
+            ],
+            "cp": 14
+        },
+        "20": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 15
+        },
+        "21": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 15
+        },
+        "22": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 16
+        },
+        "23": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 17
+        },
+        "24": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 18
+        },
+        "25": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 19
+        },
+        "26": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 20
+        },
+        "27": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 21
+        },
+        "28": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 7-6 2nd Floor"
+            ],
+            "cp": 22
+        },
+        "29": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 2nd Floor"
+            ],
+            "cp": 23
+        },
+        "30": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 2nd Floor"
+            ],
+            "cp": 24
+        },
+        "31": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 25
+        },
+        "32": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 25
+        },
+        "33": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 26
+        },
+        "34": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 27
+        },
+        "35": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 28
+        },
+        "36": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 29
+        },
+        "37": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 30
+        },
+        "38": {
+            "chain": [
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 31
+        },
+        "39": {
+            "chain": [
+                "East Gate, No.7",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 32
+        },
+        "40": {
+            "chain": [
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 33
+        },
+        "41": {
+            "chain": [
+                "East Gate, No.1 1st Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 34
+        },
+        "42": {
+            "chain": [
+                "East Gate, No.1 2nd Floor",
+                "East Gate, No.7",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 35
+        },
+        "43": {
+            "chain": [
+                "East Gate, No.1 2nd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 36
+        },
+        "44": {
+            "chain": [
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.1 2nd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 37
+        },
+        "45": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 38
+        },
+        "46": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 39
+        },
+        "47": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 40
+        },
+        "48": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 41
+        },
+        "49": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 42
+        },
+        "50": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 43
+        },
+        "51": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 44
+        },
+        "52": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.7",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 45
+        },
+        "53": {
+            "chain": [
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 46
+        },
+        "54": {
+            "chain": [
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 47
+        },
+        "55": {
+            "chain": [
+                "Slum, 1-3 1st Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 48
+        },
+        "56": {
+            "chain": [
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 49
+        },
+        "57": {
+            "chain": [
+                "North Gate, No.4 1st Floor",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 50
+        },
+        "58": {
+            "chain": [
+                "North Gate, No.4 2nd Floor",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 51
+        },
+        "59": {
+            "chain": [
+                "North Gate, No.3",
+                "Slum, 1-3 1st Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 52
+        },
+        "60": {
+            "chain": [
+                "North Gate, No.3",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 53
+        },
+        "61": {
+            "chain": [
+                "North Gate, No.1",
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 54
+        },
+        "62": {
+            "chain": [
+                "North Gate, No.1",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.7",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 55
+        },
+        "63": {
+            "chain": [
+                "North Gate, No.1",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 56
+        },
+        "64": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 57
+        },
+        "65": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 1st Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 58
+        },
+        "66": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 59
+        },
+        "67": {
+            "chain": [
+                "North Gate, No.4 1st Floor",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 61
+        },
+        "68": {
+            "chain": [
+                "North Gate, No.4 2nd Floor",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 62
+        },
+        "69": {
+            "chain": [
+                "North Gate, No.3",
+                "Slum, 1-3 1st Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 63
+        },
+        "70": {
+            "chain": [
+                "North Gate, No.3",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 64
+        },
+        "71": {
+            "chain": [
+                "North Gate, No.1",
+                "East Gate, No.4 3rd Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 65
+        },
+        "72": {
+            "chain": [
+                "North Gate, No.1",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.7",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 66
+        },
+        "73": {
+            "chain": [
+                "North Gate, No.1",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 67
+        },
+        "74": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 68
+        },
+        "75": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 1st Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 69
+        },
+        "76": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 70
+        },
+        "77": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 72
+        },
+        "78": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 2-3 3rd Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.7",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 73
+        },
+        "79": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 2-3 3rd Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 74
+        },
+        "80": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 75
+        },
+        "81": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 1st Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 76
+        },
+        "82": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 77
+        },
+        "83": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 79
+        },
+        "84": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 1st Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 80
+        },
+        "85": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 81
+        },
+        "86": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 1st Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 83
+        },
+        "87": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor"
+            ],
+            "cp": 84
+        },
+        "88": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 1st Floor",
+                "Market Street, 7-6 3rd Floor",
+                "Northern Wheat Plantation, 1"
+            ],
+            "cp": 86
+        },
+        "89": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 1st Floor",
+                "Market Street, 5-5 2nd Floor",
+                "Market Street, 7-6 3rd Floor",
+                "Northern Wheat Plantation, 1"
+            ],
+            "cp": 88
+        },
+        "90": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 2nd Floor",
+                "Market Street, 5-5 2nd Floor",
+                "Market Street, 7-6 3rd Floor",
+                "Northern Wheat Plantation, 1"
+            ],
+            "cp": 90
+        },
+        "91": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-4 1st Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-1 2nd Floor",
+                "Market Street, 2-1 2nd Floor",
+                "Market Street, 5-5 2nd Floor",
+                "Market Street, 7-6 3rd Floor",
+                "Northern Wheat Plantation, 1"
+            ],
+            "cp": 92
+        },
+        "92": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-3 2nd Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-3 2nd Floor",
+                "Market Street, 2-1 2nd Floor",
+                "Market Street, 5-5 2nd Floor",
+                "Market Street, 7-6 3rd Floor",
+                "Northern Wheat Plantation, 1"
+            ],
+            "cp": 95
+        },
+        "93": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-4 1st Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-3 2nd Floor",
+                "Market Street, 2-1 2nd Floor",
+                "Market Street, 5-5 2nd Floor",
+                "Market Street, 7-6 3rd Floor",
+                "Northern Wheat Plantation, 1"
+            ],
+            "cp": 97
+        },
+        "94": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-4 1st Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "Bain Farmland, 1",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-3 2nd Floor",
+                "Market Street, 2-1 2nd Floor",
+                "Market Street, 5-5 2nd Floor",
+                "Market Street, 7-6 3rd Floor",
+                "Northern Wheat Plantation, 1"
+            ],
+            "cp": 100
+        },
+        "95": {
+            "chain": [
+                "North Gate, No.1",
+                "Slum, 1-4 1st Floor",
+                "Slum, 2-3 3rd Floor",
+                "Slum, 3-1 1st Floor",
+                "Bain Farmland, 1",
+                "East Gate, No.4 3rd Floor",
+                "East Gate, No.8 1st Floor",
+                "South Gate, 4 1st Floor",
+                "South Gate, 2 2nd Floor",
+                "Chapel, 2-5 3rd Floor",
+                "Falres Dirt Farm, 1",
+                "Florin, No.1 Room 3",
+                "Florin, 2-3",
+                "Gabino Farm, 4 2nd Floor",
+                "Market Street, 1-5",
+                "Market Street, 1-3 2nd Floor",
+                "Market Street, 2-1 2nd Floor",
+                "Market Street, 5-5 2nd Floor",
+                "Market Street, 7-6 3rd Floor",
+                "Northern Wheat Plantation, 1"
+            ],
+            "cp": 104
+        }
+    },
+    "Duvencrune": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "8"
+            ],
+            "cp": 8
+        },
+        "3": {
+            "chain": [
+                "8"
+            ],
+            "cp": 8
+        },
+        "4": {
+            "chain": [
+                "6",
+                "8"
+            ],
+            "cp": 16
+        },
+        "5": {
+            "chain": [
+                "6",
+                "8"
+            ],
+            "cp": 16
+        },
+        "6": {
+            "chain": [
+                "3",
+                "6",
+                "8"
+            ],
+            "cp": 24
+        },
+        "7": {
+            "chain": [
+                "3",
+                "6",
+                "8"
+            ],
+            "cp": 24
+        },
+        "8": {
+            "chain": [
+                "11-2",
+                "3",
+                "6",
+                "8"
+            ],
+            "cp": 32
+        }
+    },
+    "Epheria Port": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "2-1 Room 1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "2-1 Room 2"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "1-1 1st Floor",
+                "2-1 Room 2"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "1-1 2nd Floor",
+                "2-1 Room 2"
+            ],
+            "cp": 5
+        },
+        "6": {
+            "chain": [
+                "2-1 Room 2",
+                "3-1 3rd Floor"
+            ],
+            "cp": 7
+        },
+        "7": {
+            "chain": [
+                "1-1 1st Floor",
+                "2-1 Room 2",
+                "3-1 3rd Floor"
+            ],
+            "cp": 8
+        },
+        "8": {
+            "chain": [
+                "1-1 2nd Floor",
+                "2-1 Room 2",
+                "3-1 3rd Floor"
+            ],
+            "cp": 10
+        },
+        "9": {
+            "chain": [
+                "2-5"
+            ],
+            "cp": 12
+        },
+        "10": {
+            "chain": [
+                "1-1 1st Floor",
+                "2-5"
+            ],
+            "cp": 13
+        },
+        "11": {
+            "chain": [
+                "1-1 2nd Floor",
+                "2-5"
+            ],
+            "cp": 15
+        },
+        "12": {
+            "chain": [
+                "1-4 2nd Floor"
+            ],
+            "cp": 16
+        },
+        "13": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-1 Room 1"
+            ],
+            "cp": 17
+        },
+        "14": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-1 Room 2"
+            ],
+            "cp": 18
+        },
+        "15": {
+            "chain": [
+                "1-4 2nd Floor",
+                "3-1 3rd Floor"
+            ],
+            "cp": 21
+        },
+        "16": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-1 Room 1",
+                "3-1 3rd Floor"
+            ],
+            "cp": 22
+        },
+        "17": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-1 Room 2",
+                "3-1 3rd Floor"
+            ],
+            "cp": 23
+        },
+        "18": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-1 Room 2",
+                "3-2 2nd Floor"
+            ],
+            "cp": 27
+        },
+        "19": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-3 2nd Floor",
+                "3-1 3rd Floor"
+            ],
+            "cp": 27
+        },
+        "20": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5"
+            ],
+            "cp": 28
+        },
+        "21": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-1 2nd Floor"
+            ],
+            "cp": 31
+        },
+        "22": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-1 3rd Floor"
+            ],
+            "cp": 33
+        },
+        "23": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-1 3rd Floor"
+            ],
+            "cp": 33
+        },
+        "24": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-2 2nd Floor"
+            ],
+            "cp": 37
+        },
+        "25": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-3 2nd Floor"
+            ],
+            "cp": 39
+        },
+        "26": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-5 2nd Floor"
+            ],
+            "cp": 47
+        },
+        "27": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-5 2nd Floor"
+            ],
+            "cp": 47
+        },
+        "28": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-5 2nd Floor"
+            ],
+            "cp": 47
+        },
+        "29": {
+            "chain": [
+                "1-4 2nd Floor",
+                "2-5",
+                "3-5 2nd Floor"
+            ],
+            "cp": 47
+        }
+    },
+    "Glish": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "No.1 Room 1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "No.1 Room 2"
+            ],
+            "cp": 3
+        },
+        "4": {
+            "chain": [
+                "No.1 Room 3"
+            ],
+            "cp": 5
+        },
+        "5": {
+            "chain": [
+                "No.1 Room 3"
+            ],
+            "cp": 5
+        }
+    },
+    "Grana": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "7"
+            ],
+            "cp": 5
+        },
+        "3": {
+            "chain": [
+                "7"
+            ],
+            "cp": 5
+        },
+        "4": {
+            "chain": [
+                "10"
+            ],
+            "cp": 8
+        },
+        "5": {
+            "chain": [
+                "10"
+            ],
+            "cp": 8
+        },
+        "6": {
+            "chain": [
+                "10",
+                "7"
+            ],
+            "cp": 13
+        },
+        "7": {
+            "chain": [
+                "10",
+                "7"
+            ],
+            "cp": 13
+        },
+        "8": {
+            "chain": [
+                "10",
+                "16",
+                "7"
+            ],
+            "cp": 18
+        },
+        "9": {
+            "chain": [
+                "10",
+                "16",
+                "7"
+            ],
+            "cp": 18
+        }
+    },
+    "Heidel": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "8-1 Room 1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "4-1 1st Floor",
+                "8-1 Room 1"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "8-1 Room 2"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "7-3 1st Floor"
+            ],
+            "cp": 4
+        },
+        "6": {
+            "chain": [
+                "8-1 Room 3"
+            ],
+            "cp": 5
+        },
+        "7": {
+            "chain": [
+                "8-1 Room 3"
+            ],
+            "cp": 5
+        },
+        "8": {
+            "chain": [
+                "8-1 Room 3"
+            ],
+            "cp": 5
+        },
+        "9": {
+            "chain": [
+                "4-1 1st Floor",
+                "8-1 Room 3"
+            ],
+            "cp": 6
+        },
+        "10": {
+            "chain": [
+                "1-2",
+                "4-1 1st Floor",
+                "8-1 Room 3"
+            ],
+            "cp": 7
+        },
+        "11": {
+            "chain": [
+                "8-1 Room 4"
+            ],
+            "cp": 8
+        },
+        "12": {
+            "chain": [
+                "8-1 Room 4"
+            ],
+            "cp": 8
+        },
+        "13": {
+            "chain": [
+                "8-1 Room 4"
+            ],
+            "cp": 8
+        },
+        "14": {
+            "chain": [
+                "8-1 Room 4"
+            ],
+            "cp": 8
+        },
+        "15": {
+            "chain": [
+                "8-1 Room 4"
+            ],
+            "cp": 8
+        },
+        "16": {
+            "chain": [
+                "8-1 Room 4"
+            ],
+            "cp": 8
+        },
+        "17": {
+            "chain": [
+                "4-1 1st Floor",
+                "8-1 Room 4"
+            ],
+            "cp": 9
+        },
+        "18": {
+            "chain": [
+                "1-2",
+                "4-1 1st Floor",
+                "8-1 Room 4"
+            ],
+            "cp": 10
+        },
+        "19": {
+            "chain": [
+                "7-3 1st Floor",
+                "8-1 Room 4"
+            ],
+            "cp": 12
+        },
+        "20": {
+            "chain": [
+                "7-3 1st Floor",
+                "8-1 Room 4"
+            ],
+            "cp": 12
+        },
+        "21": {
+            "chain": [
+                "4-1 1st Floor",
+                "7-3 1st Floor",
+                "8-1 Room 4"
+            ],
+            "cp": 13
+        },
+        "22": {
+            "chain": [
+                "1-2",
+                "4-1 1st Floor",
+                "7-3 1st Floor",
+                "8-1 Room 4"
+            ],
+            "cp": 14
+        },
+        "23": {
+            "chain": [
+                "4-1 1st Floor",
+                "7-3 1st Floor",
+                "8-1 Room 4",
+                "9-2 1st Floor"
+            ],
+            "cp": 16
+        },
+        "24": {
+            "chain": [
+                "1-2",
+                "4-1 1st Floor",
+                "7-3 1st Floor",
+                "8-1 Room 4",
+                "9-2 1st Floor"
+            ],
+            "cp": 17
+        },
+        "25": {
+            "chain": [
+                "1-2",
+                "4-1 1st Floor",
+                "7-3 1st Floor",
+                "8-1 Room 4",
+                "9-2 2nd Floor"
+            ],
+            "cp": 19
+        },
+        "26": {
+            "chain": [
+                "1-2",
+                "4-1 1st Floor",
+                "7-3 1st Floor",
+                "8-1 Room 4",
+                "9-2 2nd Floor",
+                "Costa Farm, 2-1 2nd Floor"
+            ],
+            "cp": 22
+        },
+        "27": {
+            "chain": [
+                "1-5",
+                "4-1 1st Floor",
+                "7-3 1st Floor",
+                "8-1 Room 4",
+                "9-2 2nd Floor"
+            ],
+            "cp": 28
+        },
+        "28": {
+            "chain": [
+                "1-5",
+                "4-1 1st Floor",
+                "7-3 1st Floor",
+                "8-1 Room 4",
+                "9-2 2nd Floor",
+                "Costa Farm, 2-1 2nd Floor"
+            ],
+            "cp": 31
+        }
+    },
+    "Iliya Island": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "6-2"
+            ],
+            "cp": 3
+        },
+        "3": {
+            "chain": [
+                "4-2",
+                "6-2"
+            ],
+            "cp": 7
+        }
+    },
+    "Keplan": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "3-1"
+            ],
+            "cp": 2
+        },
+        "3": {
+            "chain": [
+                "1-3 1st Floor"
+            ],
+            "cp": 4
+        },
+        "4": {
+            "chain": [
+                "1-4 1st Floor"
+            ],
+            "cp": 5
+        },
+        "5": {
+            "chain": [
+                "1-4 1st Floor",
+                "3-1"
+            ],
+            "cp": 7
+        },
+        "6": {
+            "chain": [
+                "1-3 1st Floor",
+                "3-1 Storage"
+            ],
+            "cp": 10
+        },
+        "7": {
+            "chain": [
+                "1-4 1st Floor",
+                "3-1 Storage"
+            ],
+            "cp": 11
+        },
+        "8": {
+            "chain": [
+                "1-4 1st Floor",
+                "2-2 1st Floor",
+                "3-1 Storage"
+            ],
+            "cp": 14
+        },
+        "9": {
+            "chain": [
+                "Gianin Farm, No.1",
+                "1-4 1st Floor",
+                "2-2 1st Floor",
+                "3-1 Storage"
+            ],
+            "cp": 17
+        },
+        "10": {
+            "chain": [
+                "1-4 1st Floor",
+                "2-2 2nd Floor",
+                "3-1 Storage"
+            ],
+            "cp": 19
+        },
+        "11": {
+            "chain": [
+                "Gianin Farm, No.1",
+                "1-4 1st Floor",
+                "2-2 2nd Floor",
+                "3-1 Storage"
+            ],
+            "cp": 22
+        }
+    },
+    "Old Wisdom Tree": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        }
+     },
+    "Olvia": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "7-1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "Wale Farm, 1"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "7-1",
+                "Wale Farm, 1"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "6-1",
+                "7-1",
+                "Wale Farm, 1"
+            ],
+            "cp": 4
+        },
+        "6": {
+            "chain": [
+                "6-2",
+                "Wale Farm, 1"
+            ],
+            "cp": 5
+        },
+        "7": {
+            "chain": [
+                "6-3"
+            ],
+            "cp": 5
+        },
+        "8": {
+            "chain": [
+                "6-3"
+            ],
+            "cp": 5
+        },
+        "9": {
+            "chain": [
+                "6-3",
+                "7-1"
+            ],
+            "cp": 6
+        },
+        "10": {
+            "chain": [
+                "6-3",
+                "Wale Farm, 1"
+            ],
+            "cp": 7
+        },
+        "11": {
+            "chain": [
+                "6-3",
+                "7-1",
+                "Wale Farm, 1"
+            ],
+            "cp": 8
+        },
+        "12": {
+            "chain": [
+                "2-1",
+                "6-3",
+                "Wale Farm, 1"
+            ],
+            "cp": 10
+        },
+        "13": {
+            "chain": [
+                "2-1",
+                "6-3",
+                "7-1",
+                "Wale Farm, 1"
+            ],
+            "cp": 11
+        },
+        "14": {
+            "chain": [
+                "2-4",
+                "6-3",
+                "7-1"
+            ],
+            "cp": 12
+        },
+        "15": {
+            "chain": [
+                "2-4",
+                "6-3",
+                "Wale Farm, 1"
+            ],
+            "cp": 13
+        },
+        "16": {
+            "chain": [
+                "2-4",
+                "6-3",
+                "7-1",
+                "Wale Farm, 1"
+            ],
+            "cp": 14
+        }
+    },
+    "Sand Grain Bazaar": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "3-1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "2-1",
+                "3-1"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "1-1",
+                "2-1",
+                "3-1"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "2-2",
+                "3-1"
+            ],
+            "cp": 5
+        },
+        "6": {
+            "chain": [
+                "1-1",
+                "2-2",
+                "3-1"
+            ],
+            "cp": 6
+        },
+        "7": {
+            "chain": [
+                "1-2",
+                "2-2"
+            ],
+            "cp": 8
+        },
+        "8": {
+            "chain": [
+                "1-2",
+                "2-2",
+                "3-1"
+            ],
+            "cp": 9
+        }
+    },
+    "Shakatu": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "1-1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "1-1",
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "1-1",
+                "2-1",
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 5
+        },
+        "6": {
+            "chain": [
+                "1-2",
+                "2-1",
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 7
+        },
+        "7": {
+            "chain": [
+                "1-3"
+            ],
+            "cp": 7
+        },
+        "8": {
+            "chain": [
+                "1-3",
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 9
+        },
+        "9": {
+            "chain": [
+                "1-3",
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 9
+        },
+        "10": {
+            "chain": [
+                "1-3",
+                "2-1",
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 11
+        },
+        "11": {
+            "chain": [
+                "1-3",
+                "2-2",
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 15
+        },
+        "12": {
+            "chain": [
+                "1-3",
+                "2-2",
+                "Shakatu Farmland, 1-1"
+            ],
+            "cp": 15
+        }
+    },
+    "Tarif": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "Shuri Farm, No.1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "Shuri Farm, No.2"
+            ],
+            "cp": 3
+        },
+        "4": {
+            "chain": [
+                "Shuri Farm, No.2"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "Shuri Farm, No.2",
+                "2-2 2nd Floor"
+            ],
+            "cp": 7
+        },
+        "6": {
+            "chain": [
+                "Shuri Farm, No.2",
+                "2-2 2nd Floor"
+            ],
+            "cp": 7
+        },
+        "7": {
+            "chain": [
+                "Shuri Farm, No.2",
+                "Stonetail Horse Ranch, No.3",
+                "2-2 2nd Floor"
+            ],
+            "cp": 11
+        },
+        "8": {
+            "chain": [
+                "Shuri Farm, No.2",
+                "Stonetail Horse Ranch, No.3",
+                "2-2 2nd Floor"
+            ],
+            "cp": 11
+        }
+    },
+    "Trent": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "Behr, 1"
+            ],
+            "cp": 2
+        },
+        "3": {
+            "chain": [
+                "Behr, 2"
+            ],
+            "cp": 3
+        },
+        "4": {
+            "chain": [
+                "Longleaf Tree Sentry Post, 2nd Floor"
+            ],
+            "cp": 6
+        },
+        "5": {
+            "chain": [
+                "Behr, 1",
+                "Longleaf Tree Sentry Post, 2nd Floor"
+            ],
+            "cp": 8
+        },
+        "6": {
+            "chain": [
+                "Behr, 2",
+                "Longleaf Tree Sentry Post, 2nd Floor"
+            ],
+            "cp": 9
+        },
+        "7": {
+            "chain": [
+                "Behr, 2",
+                "Longleaf Tree Sentry Post, 2nd Floor",
+                "2"
+            ],
+            "cp": 12
+        },
+        "8": {
+            "chain": [
+                "Behr, 2",
+                "Longleaf Tree Sentry Post, 2nd Floor",
+                "3"
+            ],
+            "cp": 15
+        },
+        "9": {
+            "chain": [
+                "Behr, 1",
+                "Longleaf Tree Sentry Post, 2nd Floor",
+                "5"
+            ],
+            "cp": 18
+        },
+        "10": {
+            "chain": [
+                "Behr, 2",
+                "Longleaf Tree Sentry Post, 2nd Floor",
+                "5"
+            ],
+            "cp": 19
+        }
+    },
+    "Valencia City": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "9-1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "8-1",
+                "9-1"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 3
+        },
+        "5": {
+            "chain": [
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 4
+        },
+        "6": {
+            "chain": [
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 5
+        },
+        "7": {
+            "chain": [
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 6
+        },
+        "8": {
+            "chain": [
+                "1-2"
+            ],
+            "cp": 6
+        },
+        "9": {
+            "chain": [
+                "1-2",
+                "9-1"
+            ],
+            "cp": 7
+        },
+        "10": {
+            "chain": [
+                "1-2",
+                "8-1",
+                "9-1"
+            ],
+            "cp": 8
+        },
+        "11": {
+            "chain": [
+                "1-2",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 9
+        },
+        "12": {
+            "chain": [
+                "1-2",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 10
+        },
+        "13": {
+            "chain": [
+                "1-2",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 11
+        },
+        "14": {
+            "chain": [
+                "1-2",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 12
+        },
+        "15": {
+            "chain": [
+                "1-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 13
+        },
+        "16": {
+            "chain": [
+                "1-2",
+                "3-1",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 14
+        },
+        "17": {
+            "chain": [
+                "1-2",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 15
+        },
+        "18": {
+            "chain": [
+                "1-2",
+                "Lv.1 20-1",
+                "3-1",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 16
+        },
+        "19": {
+            "chain": [
+                "1-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 17
+        },
+        "20": {
+            "chain": [
+                "1-2",
+                "2-1",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 18
+        },
+        "21": {
+            "chain": [
+                "1-2",
+                "Lv.1 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 19
+        },
+        "22": {
+            "chain": [
+                "1-2",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "3-1",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 20
+        },
+        "23": {
+            "chain": [
+                "1-2",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 21
+        },
+        "24": {
+            "chain": [
+                "1-2",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 22
+        },
+        "25": {
+            "chain": [
+                "1-2",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 23
+        },
+        "26": {
+            "chain": [
+                "1-2",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 24
+        },
+        "27": {
+            "chain": [
+                "1-2",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 25
+        },
+        "28": {
+            "chain": [
+                "1-2",
+                "Lv.1 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 26
+        },
+        "29": {
+            "chain": [
+                "1-2",
+                "Lv.2 15-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 27
+        },
+        "30": {
+            "chain": [
+                "1-2",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 28
+        },
+        "31": {
+            "chain": [
+                "1-2",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 29
+        },
+        "32": {
+            "chain": [
+                "1-2",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 30
+        },
+        "33": {
+            "chain": [
+                "1-2",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 31
+        },
+        "34": {
+            "chain": [
+                "1-2",
+                "11-1",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 32
+        },
+        "35": {
+            "chain": [
+                "1-2",
+                "Lv.1 11-2",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 33
+        },
+        "36": {
+            "chain": [
+                "Lv.1 1-3",
+                "11-1",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 34
+        },
+        "37": {
+            "chain": [
+                "Lv.1 1-3",
+                "Lv.1 11-2",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "19-1",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 35
+        },
+        "38": {
+            "chain": [
+                "1-2",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 41
+        },
+        "39": {
+            "chain": [
+                "1-2",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 42
+        },
+        "40": {
+            "chain": [
+                "1-2",
+                "11-1",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 43
+        },
+        "41": {
+            "chain": [
+                "1-2",
+                "Lv.1 11-2",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 44
+        },
+        "42": {
+            "chain": [
+                "Lv.1 1-3",
+                "11-1",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 45
+        },
+        "43": {
+            "chain": [
+                "Lv.1 1-3",
+                "Lv.1 11-2",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.1 20-1",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 46
+        },
+        "44": {
+            "chain": [
+                "1-2",
+                "11-1",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.2 20-2",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 52
+        },
+        "45": {
+            "chain": [
+                "1-2",
+                "Lv.1 11-2",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.2 20-2",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 53
+        },
+        "46": {
+            "chain": [
+                "Lv.1 1-3",
+                "11-1",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.2 20-2",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 54
+        },
+        "47": {
+            "chain": [
+                "Lv.1 1-3",
+                "Lv.1 11-2",
+                "Lv.1 12-1",
+                "Lv.1 13-1",
+                "Lv.1 14-1",
+                "Lv.2 15-1",
+                "16-1",
+                "17-1",
+                "Lv.1 18-1",
+                "Lv.2 19-4",
+                "Lv.2 2-2",
+                "Lv.2 20-2",
+                "Lv.1 3-2",
+                "Lv.1 4-1",
+                "Lv.1 5-1",
+                "Lv.1 6-1",
+                "Lv.1 7-1",
+                "Lv.1 8-2",
+                "9-1"
+            ],
+            "cp": 55
+        }
+    },
+    "Velia": {
+        "1": {
+            "chain": [],
+            "cp": 0
+        },
+        "2": {
+            "chain": [
+                "1-1 Room 1"
+            ],
+            "cp": 1
+        },
+        "3": {
+            "chain": [
+                "1-1 Room 2"
+            ],
+            "cp": 2
+        },
+        "4": {
+            "chain": [
+                "1-1 Room 2"
+            ],
+            "cp": 2
+        },
+        "5": {
+            "chain": [
+                "1-1 Room 3"
+            ],
+            "cp": 3
+        },
+        "6": {
+            "chain": [
+                "1-1 Room 3"
+            ],
+            "cp": 3
+        },
+        "7": {
+            "chain": [
+                "1-1 Room 3",
+                "Toscani Farm, 6-1"
+            ],
+            "cp": 6
+        },
+        "8": {
+            "chain": [
+                "1-1 Room 3",
+                "Toscani Farm, 6-1"
+            ],
+            "cp": 6
+        }
+    }
+}
