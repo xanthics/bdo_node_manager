@@ -31,6 +31,4 @@ labeldic = nx.get_node_attributes(G, 'name')
 
 fig = plt.figure()
 nx.draw(G, node_size=20, with_labels=True, labels=labeldic, font_size=8, pos=pos, node_color=colors, width=.1, alpha=.8, edge_color='white', font_color='white')
-fig.set_facecolor("#00000F")
-plt.savefig('yourname.png', facecolor=fig.get_facecolor() )
 plt.show()
