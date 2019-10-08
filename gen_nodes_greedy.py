@@ -178,7 +178,7 @@ def gen_best_node_id(maxcp, available_nodes, capitals, node_data, add_worker_cp,
 
 # Remove the top maxcp//5 nodes from nodes as they will always be selected in the end result
 def remove_good(maxcp, required_nodes, nodes, capitals, node_data, graph, node_value, silver_cp_threshold):
-	remove_count = maxcp//5
+	remove_count = maxcp//5.5
 	available_nodes = nodes.copy()
 	good_nodes = []
 	add_worker_cp = {}
@@ -335,7 +335,7 @@ def gen_main(sleep, feed, required_gathers, required_nodes, required_monster_nod
 	# Calculate all potential raw silver node values
 	node_value = gen_node_values(sleep, feed, nodes, node_data, prices)
 
-	sub_nodes = remove_good(max_cp, required_nodes, nodes, capitals, node_data, n_graph, node_value, 100000)
+	sub_nodes = remove_good(max_cp, required_nodes, nodes, capitals, node_data, n_graph, node_value, 50000)
 
 	bon_workers = ', '.join([f"{x}: {bonus_workers[x]}" for x in sorted(bonus_workers)])
 	forced_nodes = '\n'.join([f'{node_data[node_data[node]["parent"]]["name"]}->{node_data[node]["name"]}' if 'parent' in node_data[node] else f'{node_data[node]["name"]}' for node in required_nodes])
