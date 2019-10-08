@@ -141,7 +141,7 @@ def gen_node_values(sleep, feed, nodes, node_data, prices):
 				trips = min(sleep * 60 / time, workers[worker]['stamina']) + \
 						min(feed * 60 / time, workers[worker]['stamina']) * ((24 - sleep) // feed) + \
 						min(remainder * 60 / time, workers[worker]['stamina'])
-				value = trips * base_val - trips * prices['Grilled Bird Meat'] * 2 / 3
+				value = trips * (base_val - prices['Grilled Bird Meat'] * 2 / 3)
 				node_values[node][dest]['results'][worker] = int(value)
 				if value > node_values[node][dest]['max']:
 					node_values[node][dest]['max'] = int(value)
