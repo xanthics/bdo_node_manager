@@ -557,10 +557,10 @@
         },
         "name": "Bartali Farm - Potato Farming",
         "output": {
-            "Potato": 9.49
+            "Potato": 18.98
         },
         "parent": 21,
-        "workload": 200
+        "workload": 400
     },
     "132": {
         "contribution": 1,
@@ -577,11 +577,11 @@
         },
         "name": "Bartali Farm - Chicken Meat Production",
         "output": {
-            "Chicken Meat": 10.12,
-            "Egg": 3.27
+            "Chicken Meat": 20.24,
+            "Egg": 6.54
         },
         "parent": 21,
-        "workload": 200
+        "workload": 400
     },
     "133": {
         "contribution": 1,
@@ -620,10 +620,10 @@
         },
         "name": "Finto Farm - Potato Farming",
         "output": {
-            "Potato": 10.09
+            "Potato": 20.18
         },
         "parent": 22,
-        "workload": 200
+        "workload": 400
     },
     "136": {
         "contribution": 1,
@@ -640,11 +640,11 @@
         },
         "name": "Finto Farm - Chicken Meat Production",
         "output": {
-            "Chicken Meat": 9.62,
-            "Egg": 2.95
+            "Chicken Meat": 19.24,
+            "Egg": 5.9
         },
         "parent": 22,
-        "workload": 200
+        "workload": 400
     },
     "139": {
         "contribution": 1,
@@ -661,11 +661,11 @@
         },
         "name": "Goblin Cave - Mining",
         "output": {
-            "Copper Ore": 7.25,
-            "Rough Translucent Crystal": 0.79
+            "Copper Ore": 14.5,
+            "Rough Translucent Crystal": 1.58
         },
         "parent": 23,
-        "workload": 200
+        "workload": 400
     },
     "142": {
         "contribution": 1,
@@ -682,11 +682,11 @@
         },
         "name": "Goblin Cave - Lumbering",
         "output": {
-            "Ash Timber": 9.62,
-            "Spirit's Leaf": 0.61
+            "Ash Timber": 19.24,
+            "Spirit's Leaf": 1.22
         },
         "parent": 23,
-        "workload": 200
+        "workload": 400
     },
     "144": {
         "contribution": 1,
@@ -728,11 +728,11 @@
         },
         "name": "Imp Cave - Mining",
         "output": {
-            "Copper Ore": 8.97,
-            "Powder of Flame": 0.67
+            "Copper Ore": 17.94,
+            "Powder of Flame": 1.34
         },
         "parent": 25,
-        "workload": 200
+        "workload": 400
     },
     "148": {
         "contribution": 1,
@@ -750,11 +750,11 @@
         },
         "name": "Imp Cave - Mining",
         "output": {
-            "Copper Ore": 9.65,
-            "Powder of Flame": 0.71
+            "Copper Ore": 19.3,
+            "Powder of Flame": 1.42
         },
         "parent": 25,
-        "workload": 200
+        "workload": 400
     },
     "151": {
         "contribution": 1,
@@ -771,10 +771,10 @@
         },
         "name": "Loggia Farm - Potato Farming",
         "output": {
-            "Potato": 8.77
+            "Potato": 17.54
         },
         "parent": 26,
-        "workload": 200
+        "workload": 400
     },
     "155": {
         "contribution": 1,
@@ -790,11 +790,11 @@
         },
         "name": "Cron Castle Site - Gathering",
         "output": {
-            "Pile of Sunrise Herbs": 0.7,
-            "Sunrise Herb": 9.03
+            "Pile of Sunrise Herbs": 1.4,
+            "Sunrise Herb": 18.06
         },
         "parent": 41,
-        "workload": 150
+        "workload": 300
     },
     "156": {
         "contribution": 1,
@@ -823,11 +823,11 @@
         },
         "name": "Ehwaz Hill - Gathering",
         "output": {
-            "Big Fortune Teller Mushroom": 0.5,
-            "Fortune Teller Mushroom": 6.98
+            "Big Fortune Teller Mushroom": 1.0,
+            "Fortune Teller Mushroom": 13.96
         },
         "parent": 42,
-        "workload": 150
+        "workload": 300
     },
     "160": {
         "contribution": 1,
@@ -844,11 +844,11 @@
         },
         "name": "Ehwaz Hill - Lumbering",
         "output": {
-            "Ash Sap": 0.89,
-            "Ash Timber": 7.48
+            "Ash Sap": 1.78,
+            "Ash Timber": 14.96
         },
         "parent": 42,
-        "workload": 150
+        "workload": 300
     },
     "164": {
         "contribution": 1,
@@ -865,11 +865,11 @@
         },
         "name": "Forest of Plunder - Gathering",
         "output": {
-            "Arrow Mushroom": 7.26,
-            "Big Arrow Mushroom": 0.51
+            "Arrow Mushroom": 14.52,
+            "Big Arrow Mushroom": 1.02
         },
         "parent": 43,
-        "workload": 150
+        "workload": 300
     },
     "167": {
         "contribution": 1,
@@ -886,11 +886,11 @@
         },
         "name": "Balenos Forest - Lumbering",
         "output": {
-            "Ash Timber": 9.38,
-            "Spirit's Leaf": 0.55
+            "Ash Timber": 18.76,
+            "Spirit's Leaf": 1.1
         },
         "parent": 44,
-        "workload": 200
+        "workload": 400
     },
     "168": {
         "contribution": 1,
@@ -907,11 +907,11 @@
         },
         "name": "Balenos Forest - Gathering",
         "output": {
-            "Pile of Sunrise Herbs": 0.63,
-            "Sunrise Herb": 8.8
+            "Pile of Sunrise Herbs": 1.26,
+            "Sunrise Herb": 17.6
         },
         "parent": 44,
-        "workload": 150
+        "workload": 300
     },
     "171": {
         "contribution": 1,
@@ -929,10 +929,10 @@
         },
         "name": "Toscani Farm - Corn Farming",
         "output": {
-            "Corn": 9.42
+            "Corn": 18.84
         },
         "parent": 45,
-        "workload": 200
+        "workload": 400
     },
     "172": {
         "contribution": 1,
@@ -950,10 +950,10 @@
         },
         "name": "Toscani Farm - Corn Farming",
         "output": {
-            "Corn": 8.64
+            "Corn": 17.28
         },
         "parent": 45,
-        "workload": 200
+        "workload": 400
     },
     "175": {
         "contribution": 1,
@@ -970,11 +970,11 @@
         },
         "name": "Coastal Cave - Mining",
         "output": {
-            "Copper Ore": 9.19,
-            "Powder of Flame": 1.12
+            "Copper Ore": 18.38,
+            "Powder of Flame": 2.24
         },
         "parent": 46,
-        "workload": 150
+        "workload": 300
     },
     "176": {
         "contribution": 1,
@@ -991,11 +991,11 @@
         },
         "name": "Coastal Cave - Mining",
         "output": {
-            "Iron Ore": 8.94,
-            "Powder of Darkness": 0.76
+            "Iron Ore": 17.88,
+            "Powder of Darkness": 1.52
         },
         "parent": 46,
-        "workload": 150
+        "workload": 300
     },
     "179": {
         "contribution": 1,
@@ -1025,11 +1025,11 @@
         },
         "name": "Forest of Seclusion - Lumbering",
         "output": {
-            "Maple Timber": 9.73,
-            "Monk's Branch": 0.7
+            "Maple Timber": 19.46,
+            "Monk's Branch": 1.4
         },
         "parent": 48,
-        "workload": 150
+        "workload": 300
     },
     "184": {
         "contribution": 1,
@@ -1047,11 +1047,11 @@
         },
         "name": "Forest of Seclusion - Mining",
         "output": {
-            "Copper Ore": 9.69,
-            "Powder of Flame": 0.91
+            "Copper Ore": 19.38,
+            "Powder of Flame": 1.82
         },
         "parent": 48,
-        "workload": 150
+        "workload": 300
     },
     "187": {
         "contribution": 1,
@@ -1068,11 +1068,11 @@
         },
         "name": "Coastal Cliff - Gathering",
         "output": {
-            "Big Fortune Teller Mushroom": 0.62,
-            "Fortune Teller Mushroom": 7.69
+            "Big Fortune Teller Mushroom": 1.24,
+            "Fortune Teller Mushroom": 15.38
         },
         "parent": 49,
-        "workload": 150
+        "workload": 300
     },
     "188": {
         "contribution": 1,
@@ -1089,11 +1089,11 @@
         },
         "name": "Coastal Cliff - Mining",
         "output": {
-            "Iron Ore": 11.62,
-            "Powder of Darkness": 1.25
+            "Iron Ore": 23.24,
+            "Powder of Darkness": 2.5
         },
         "parent": 49,
-        "workload": 150
+        "workload": 300
     },
     "201": {
         "contribution": 1,
@@ -1109,10 +1109,10 @@
         },
         "name": "Wolf Hills - Lumbering",
         "output": {
-            "Ash Timber": 4.43
+            "Ash Timber": 8.86
         },
         "parent": 66,
-        "workload": 200
+        "workload": 400
     },
     "202": {
         "contribution": 1,
@@ -1130,10 +1130,10 @@
         },
         "name": "Terrmian Cliff - Mining",
         "output": {
-            "Copper Ore": 4.3
+            "Copper Ore": 8.6
         },
         "parent": 68,
-        "workload": 200
+        "workload": 400
     },
     "203": {
         "contribution": 1,
@@ -1149,10 +1149,10 @@
         },
         "name": "Casta Farm - Grapes",
         "output": {
-            "Grape": 4.58
+            "Grape": 9.16
         },
         "parent": 64,
-        "workload": 200
+        "workload": 400
     },
     "204": {
         "contribution": 1,
@@ -1168,10 +1168,10 @@
         },
         "name": "Wale Farm - Olives",
         "output": {
-            "Olive": 4.51
+            "Olive": 9.02
         },
         "parent": 65,
-        "workload": 200
+        "workload": 400
     },
     "301": {
         "childnodes": [
@@ -1661,10 +1661,10 @@
         },
         "name": "Alejandro Farm - Pumpkin Farming",
         "output": {
-            "Pumpkin": 10.53
+            "Pumpkin": 21.06
         },
         "parent": 321,
-        "workload": 200
+        "workload": 400
     },
     "432": {
         "contribution": 1,
@@ -1680,10 +1680,10 @@
         },
         "name": "Alejandro Farm - Honey Production",
         "output": {
-            "Cooking Honey": 11.45
+            "Cooking Honey": 22.9
         },
         "parent": 321,
-        "workload": 200
+        "workload": 400
     },
     "435": {
         "contribution": 1,
@@ -1699,10 +1699,10 @@
         },
         "name": "Costa Farm - Wheat Farming",
         "output": {
-            "Wheat": 9.97
+            "Wheat": 19.94
         },
         "parent": 322,
-        "workload": 200
+        "workload": 400
     },
     "436": {
         "contribution": 1,
@@ -1718,10 +1718,10 @@
         },
         "name": "Costa Farm - Pumpkin Farming",
         "output": {
-            "Pumpkin": 10.56
+            "Pumpkin": 21.12
         },
         "parent": 322,
-        "workload": 200
+        "workload": 400
     },
     "438": {
         "contribution": 1,
@@ -1737,11 +1737,11 @@
         },
         "name": "Costa Farm - Flax Farming",
         "output": {
-            "Flax": 10.61,
-            "Flax Thread": 0.64
+            "Flax": 21.22,
+            "Flax Thread": 1.28
         },
         "parent": 322,
-        "workload": 200
+        "workload": 400
     },
     "439": {
         "contribution": 1,
@@ -1757,10 +1757,10 @@
         },
         "name": "Moretti Plantation - Wheat Farming",
         "output": {
-            "Wheat": 11.2
+            "Wheat": 22.4
         },
         "parent": 323,
-        "workload": 200
+        "workload": 400
     },
     "440": {
         "contribution": 1,
@@ -1776,11 +1776,11 @@
         },
         "name": "Moretti Plantation - Flax Farming",
         "output": {
-            "Flax": 10.47,
-            "Flax Thread": 0.62
+            "Flax": 20.94,
+            "Flax Thread": 1.24
         },
         "parent": 323,
-        "workload": 200
+        "workload": 400
     },
     "441": {
         "contribution": 1,
@@ -1809,11 +1809,11 @@
         },
         "name": "Castle Ruins - Lumbering",
         "output": {
-            "Maple Sap": 1.04,
-            "Maple Timber": 8.52
+            "Maple Sap": 2.08,
+            "Maple Timber": 17.04
         },
         "parent": 324,
-        "workload": 150
+        "workload": 300
     },
     "451": {
         "contribution": 1,
@@ -1830,11 +1830,11 @@
         },
         "name": "Northern Heidel Quarry - Mining",
         "output": {
-            "Iron Ore": 9.73,
-            "Powder of Darkness": 0.64
+            "Iron Ore": 19.46,
+            "Powder of Darkness": 1.28
         },
         "parent": 326,
-        "workload": 200
+        "workload": 400
     },
     "452": {
         "contribution": 1,
@@ -1851,11 +1851,11 @@
         },
         "name": "Northern Heidel Quarry - Mining",
         "output": {
-            "Copper Ore": 9.64,
-            "Powder of Flame": 0.59
+            "Copper Ore": 19.28,
+            "Powder of Flame": 1.18
         },
         "parent": 326,
-        "workload": 150
+        "workload": 300
     },
     "455": {
         "contribution": 1,
@@ -1872,11 +1872,11 @@
         },
         "name": "Serendia Shrine - Lumbering",
         "output": {
-            "Monk's Branch": 0.73,
-            "Pine Timber": 10.01
+            "Monk's Branch": 1.46,
+            "Pine Timber": 20.02
         },
         "parent": 327,
-        "workload": 150
+        "workload": 300
     },
     "459": {
         "contribution": 1,
@@ -1892,11 +1892,11 @@
         },
         "name": "Lynch Ranch - Fleece Production",
         "output": {
-            "Fleece": 10.94,
-            "Knitting Yarn": 0.59
+            "Fleece": 21.88,
+            "Knitting Yarn": 1.18
         },
         "parent": 328,
-        "workload": 200
+        "workload": 400
     },
     "463": {
         "contribution": 1,
@@ -1912,11 +1912,11 @@
         },
         "name": "Northern Plain of Serendia - Gathering",
         "output": {
-            "Bunch of Silver Azaleas": 0.34,
-            "Silver Azalea": 10.35
+            "Bunch of Silver Azaleas": 0.68,
+            "Silver Azalea": 20.7
         },
         "parent": 341,
-        "workload": 150
+        "workload": 300
     },
     "464": {
         "contribution": 1,
@@ -1932,11 +1932,11 @@
         },
         "name": "Northern Plain of Serendia - Lumbering",
         "output": {
-            "Maple Timber": 9.55,
-            "Red Tree Lump": 0.6
+            "Maple Timber": 19.1,
+            "Red Tree Lump": 1.2
         },
         "parent": 341,
-        "workload": 200
+        "workload": 400
     },
     "471": {
         "contribution": 1,
@@ -1953,11 +1953,11 @@
         },
         "name": "Glish Swamp - Gathering",
         "output": {
-            "Big Cloud Mushroom": 0.47,
-            "Cloud Mushroom": 7.2
+            "Big Cloud Mushroom": 0.94,
+            "Cloud Mushroom": 14.4
         },
         "parent": 343,
-        "workload": 150
+        "workload": 300
     },
     "472": {
         "contribution": 1,
@@ -1974,11 +1974,11 @@
         },
         "name": "Glish Swamp - Mining",
         "output": {
-            "Lead Ore": 10.0,
-            "Powder of Time": 0.66
+            "Lead Ore": 20.0,
+            "Powder of Time": 1.32
         },
         "parent": 343,
-        "workload": 200
+        "workload": 400
     },
     "475": {
         "contribution": 1,
@@ -1995,11 +1995,11 @@
         },
         "name": "Southern Cienaga - Gathering",
         "output": {
-            "Big Cloud Mushroom": 0.5,
-            "Cloud Mushroom": 7.27
+            "Big Cloud Mushroom": 1.0,
+            "Cloud Mushroom": 14.54
         },
         "parent": 344,
-        "workload": 150
+        "workload": 300
     },
     "476": {
         "contribution": 1,
@@ -2016,11 +2016,11 @@
         },
         "name": "Southern Cienaga - Mining",
         "output": {
-            "Iron Ore": 7.84,
-            "Rough Mud Crystal": 0.58
+            "Iron Ore": 15.68,
+            "Rough Mud Crystal": 1.16
         },
         "parent": 344,
-        "workload": 150
+        "workload": 300
     },
     "479": {
         "contribution": 1,
@@ -2071,11 +2071,11 @@
         },
         "name": "Northern Cienaga - Gathering",
         "output": {
-            "Big Dwarf Mushroom": 0.46,
-            "Dwarf Mushroom": 7.6
+            "Big Dwarf Mushroom": 0.92,
+            "Dwarf Mushroom": 15.2
         },
         "parent": 346,
-        "workload": 150
+        "workload": 300
     },
     "484": {
         "contribution": 1,
@@ -2103,11 +2103,11 @@
         },
         "name": "Lynch Farm Ruins - Gathering",
         "output": {
-            "Bunch of Silver Azaleas": 0.16,
-            "Silver Azalea": 10.4
+            "Bunch of Silver Azaleas": 0.32,
+            "Silver Azalea": 20.8
         },
         "parent": 347,
-        "workload": 150
+        "workload": 300
     },
     "488": {
         "contribution": 1,
@@ -3372,11 +3372,11 @@
         },
         "name": "Quint Hill - Lumbering",
         "output": {
-            "Birch Timber": 11.48,
-            "Red Tree Lump": 0.82
+            "Birch Timber": 22.96,
+            "Red Tree Lump": 1.64
         },
         "parent": 622,
-        "workload": 150
+        "workload": 300
     },
     "835": {
         "contribution": 1,
@@ -3393,11 +3393,11 @@
         },
         "name": "Quint Hill - Mining",
         "output": {
-            "Lead Ore": 11.05,
-            "Powder of Time": 0.82
+            "Lead Ore": 22.1,
+            "Powder of Time": 1.64
         },
         "parent": 622,
-        "workload": 200
+        "workload": 400
     },
     "840": {
         "contribution": 1,
@@ -3414,11 +3414,11 @@
         },
         "name": "Bree Tree Ruins - Lumbering",
         "output": {
-            "Birch Sap": 1.17,
-            "Birch Timber": 8.93
+            "Birch Sap": 2.34,
+            "Birch Timber": 17.86
         },
         "parent": 624,
-        "workload": 150
+        "workload": 300
     },
     "841": {
         "contribution": 1,
@@ -3435,11 +3435,11 @@
         },
         "name": "Bree Tree Ruins - Gathering",
         "output": {
-            "Big Tiger Mushroom": 0.63,
-            "Tiger Mushroom": 9.94
+            "Big Tiger Mushroom": 1.26,
+            "Tiger Mushroom": 19.88
         },
         "parent": 624,
-        "workload": 150
+        "workload": 300
     },
     "842": {
         "contribution": 1,
@@ -3478,11 +3478,11 @@
         },
         "name": "Khuruto Cave - Mining",
         "output": {
-            "Rough Red Crystal": 0.82,
-            "Tin Ore": 8.98
+            "Rough Red Crystal": 1.64,
+            "Tin Ore": 17.96
         },
         "parent": 625,
-        "workload": 500
+        "workload": 1000
     },
     "844": {
         "contribution": 1,
@@ -3510,11 +3510,11 @@
         },
         "name": "Karanda Ridge - Gathering",
         "output": {
-            "Bunch of Silk Honey Grass": 0.27,
-            "Silk Honey Grass": 12.16
+            "Bunch of Silk Honey Grass": 0.54,
+            "Silk Honey Grass": 24.32
         },
         "parent": 627,
-        "workload": 150
+        "workload": 300
     },
     "850": {
         "contribution": 1,
@@ -3542,10 +3542,10 @@
         },
         "name": "Northern Wheat Plantation - Wheat Farming",
         "output": {
-            "Wheat": 11.65
+            "Wheat": 23.3
         },
         "parent": 628,
-        "workload": 200
+        "workload": 400
     },
     "853": {
         "contribution": 1,
@@ -3561,10 +3561,10 @@
         },
         "name": "Northern Wheat Plantation - Barley Farming",
         "output": {
-            "Barley": 12.27
+            "Barley": 24.54
         },
         "parent": 628,
-        "workload": 200
+        "workload": 400
     },
     "854": {
         "contribution": 1,
@@ -3580,10 +3580,10 @@
         },
         "name": "Northern Wheat Plantation - Paprika Farming",
         "output": {
-            "Paprika": 11.17
+            "Paprika": 22.34
         },
         "parent": 628,
-        "workload": 200
+        "workload": 400
     },
     "855": {
         "contribution": 1,
@@ -3599,11 +3599,11 @@
         },
         "name": "Old Dandelion - Lumbering",
         "output": {
-            "Birch Timber": 11.83,
-            "Red Tree Lump": 0.79
+            "Birch Timber": 23.66,
+            "Red Tree Lump": 1.58
         },
         "parent": 629,
-        "workload": 150
+        "workload": 300
     },
     "856": {
         "contribution": 1,
@@ -3645,11 +3645,11 @@
         },
         "name": "Mansha Forest - Lumbering",
         "output": {
-            "Fir Sap": 1.09,
-            "Fir Timber": 9.09
+            "Fir Sap": 2.18,
+            "Fir Timber": 18.18
         },
         "parent": 715,
-        "workload": 150
+        "workload": 300
     },
     "902": {
         "contribution": 1,
@@ -3690,11 +3690,11 @@
         },
         "name": "Phoniel's Cabin - Lumbering",
         "output": {
-            "Fir Sap": 0.96,
-            "Fir Timber": 8.01
+            "Fir Sap": 1.92,
+            "Fir Timber": 16.02
         },
         "parent": 722,
-        "workload": 150
+        "workload": 300
     },
     "904": {
         "contribution": 1,
@@ -3712,11 +3712,11 @@
         },
         "name": "Rhua Tree Stub - Gathering",
         "output": {
-            "Big Emperor Mushroom": 0.59,
-            "Emperor Mushroom": 8.71
+            "Big Emperor Mushroom": 1.18,
+            "Emperor Mushroom": 17.42
         },
         "parent": 710,
-        "workload": 150
+        "workload": 300
     },
     "905": {
         "contribution": 1,
@@ -3732,11 +3732,11 @@
         },
         "name": "Lumberjack's Rest Area - Lumbering",
         "output": {
-            "Cedar Timber": 10.75,
-            "Spirit's Leaf": 0.62
+            "Cedar Timber": 21.5,
+            "Spirit's Leaf": 1.24
         },
         "parent": 718,
-        "workload": 150
+        "workload": 300
     },
     "906": {
         "contribution": 1,
@@ -3752,11 +3752,11 @@
         },
         "name": "Longleaf Tree Sentry Post - Gathering",
         "output": {
-            "Bunch of Silk Honey Grass": 0.11,
-            "Silk Honey Grass": 11.34
+            "Bunch of Silk Honey Grass": 0.22,
+            "Silk Honey Grass": 22.68
         },
         "parent": 719,
-        "workload": 150
+        "workload": 300
     },
     "907": {
         "contribution": 1,
@@ -3772,11 +3772,11 @@
         },
         "name": "Longleaf Tree Forest - Lumbering",
         "output": {
-            "Cedar Sap": 1.27,
-            "Cedar Timber": 9.42
+            "Cedar Sap": 2.54,
+            "Cedar Timber": 18.84
         },
         "parent": 720,
-        "workload": 150
+        "workload": 300
     },
     "908": {
         "contribution": 1,
@@ -3792,11 +3792,11 @@
         },
         "name": "Treant Forest - Lumbering",
         "output": {
-            "Bloody Tree Knot": 0.9,
-            "Fir Timber": 11.06
+            "Bloody Tree Knot": 1.8,
+            "Fir Timber": 22.12
         },
         "parent": 703,
-        "workload": 150
+        "workload": 300
     },
     "909": {
         "contribution": 1,
@@ -3824,11 +3824,11 @@
         },
         "name": "Marie Cave - Lumbering",
         "output": {
-            "Pine Sap": 1.31,
-            "Pine Timber": 9.45
+            "Pine Sap": 2.62,
+            "Pine Timber": 18.9
         },
         "parent": 716,
-        "workload": 150
+        "workload": 300
     },
     "911": {
         "contribution": 1,
@@ -3844,11 +3844,11 @@
         },
         "name": "Marie Cave - Gathering",
         "output": {
-            "Big Ghost Mushroom": 0.58,
-            "Ghost Mushroom": 9.74
+            "Big Ghost Mushroom": 1.16,
+            "Ghost Mushroom": 19.48
         },
         "parent": 716,
-        "workload": 150
+        "workload": 300
     },
     "912": {
         "contribution": 1,
@@ -3890,11 +3890,11 @@
         },
         "name": "Rhutum Outstation - Mining",
         "output": {
-            "Rough Green Crystal": 0.69,
-            "Tin Ore": 9.03
+            "Rough Green Crystal": 1.38,
+            "Tin Ore": 18.06
         },
         "parent": 706,
-        "workload": 200
+        "workload": 400
     },
     "914": {
         "contribution": 1,
@@ -3912,11 +3912,11 @@
         },
         "name": "Behr Riverhead - Mining",
         "output": {
-            "Powder of Earth": 1.01,
-            "Tin Ore": 13.39
+            "Powder of Earth": 2.02,
+            "Tin Ore": 26.78
         },
         "parent": 705,
-        "workload": 200
+        "workload": 400
     },
     "950": {
         "contribution": 1,
@@ -3933,11 +3933,11 @@
         },
         "name": "Primal Giant Post - Mining",
         "output": {
-            "Lead Ore": 8.96,
-            "Powder of Crevice": 0.98
+            "Lead Ore": 17.92,
+            "Powder of Crevice": 1.96
         },
         "parent": 656,
-        "workload": 200
+        "workload": 400
     },
     "951": {
         "contribution": 1,
@@ -3954,11 +3954,11 @@
         },
         "name": "Keplan Quarry - Mining",
         "output": {
-            "Coal": 11.34,
-            "Powder of Crevice": 0.69
+            "Coal": 22.68,
+            "Powder of Crevice": 1.38
         },
         "parent": 674,
-        "workload": 200
+        "workload": 400
     },
     "952": {
         "contribution": 1,
@@ -3975,11 +3975,11 @@
         },
         "name": "Oze Pass - Lumbering",
         "output": {
-            "Cedar Timber": 11.69,
-            "Monk's Branch": 0.86
+            "Cedar Timber": 23.38,
+            "Monk's Branch": 1.72
         },
         "parent": 652,
-        "workload": 150
+        "workload": 300
     },
     "953": {
         "contribution": 1,
@@ -4044,11 +4044,11 @@
         },
         "name": "Glutoni Cave - Gathering",
         "output": {
-            "Big Emperor Mushroom": 0.66,
-            "Emperor Mushroom": 8.42
+            "Big Emperor Mushroom": 1.32,
+            "Emperor Mushroom": 16.84
         },
         "parent": 672,
-        "workload": 150
+        "workload": 300
     },
     "958": {
         "contribution": 1,
@@ -4065,10 +4065,10 @@
         },
         "name": "Glutoni Cave - Mining",
         "output": {
-            "Coal": 12.02
+            "Coal": 24.04
         },
         "parent": 672,
-        "workload": 200
+        "workload": 400
     },
     "959": {
         "contribution": 1,
@@ -4084,11 +4084,11 @@
         },
         "name": "Hexe Stone Wall - Mining",
         "output": {
-            "Iron Ore": 9.93,
-            "Powder of Darkness": 0.74
+            "Iron Ore": 19.86,
+            "Powder of Darkness": 1.48
         },
         "parent": 662,
-        "workload": 500
+        "workload": 1000
     },
     "960": {
         "contribution": 1,
@@ -6600,11 +6600,11 @@
         },
         "name": "Ahto Farm - Cotton Farming",
         "output": {
-            "Cotton": 12.53,
-            "Cotton Yarn": 0.85
+            "Cotton": 25.06,
+            "Cotton Yarn": 1.7
         },
         "parent": 1159,
-        "workload": 200
+        "workload": 400
     },
     "1202": {
         "contribution": 2,
@@ -6621,10 +6621,10 @@
         },
         "name": "Ahto Farm - Aloe Farming",
         "output": {
-            "Aloe": 14.62
+            "Aloe": 29.24
         },
         "parent": 1159,
-        "workload": 200
+        "workload": 400
     },
     "1203": {
         "contribution": 3,
@@ -6641,12 +6641,12 @@
         },
         "name": "Omar Lava Cave - Mining",
         "output": {
-            "Platinum Ore": 0.8,
-            "Powder of Time": 2.01,
-            "Zinc Ore": 8.38
+            "Platinum Ore": 1.6,
+            "Powder of Time": 4.02,
+            "Zinc Ore": 16.76
         },
         "parent": 1149,
-        "workload": 500
+        "workload": 1000
     },
     "1204": {
         "contribution": 3,
@@ -6663,12 +6663,12 @@
         },
         "name": "Omar Lava Cave - Mining",
         "output": {
-            "Coal": 9.67,
-            "Powder of Crevice": 1.71,
-            "Rough Ruby": 0.98
+            "Coal": 19.34,
+            "Powder of Crevice": 3.42,
+            "Rough Ruby": 1.96
         },
         "parent": 1149,
-        "workload": 200
+        "workload": 400
     },
     "1205": {
         "contribution": 2,
@@ -6684,12 +6684,12 @@
         },
         "name": "Shuri Farm - Sweet Potato Farming",
         "output": {
-            "High-Quality Sweet Potato": 1.39,
-            "Special Sweet Potato": 0.69,
-            "Sweet Potato": 10.65
+            "High-Quality Sweet Potato": 2.78,
+            "Special Sweet Potato": 1.38,
+            "Sweet Potato": 21.3
         },
         "parent": 1160,
-        "workload": 200
+        "workload": 400
     },
     "1206": {
         "contribution": 2,
@@ -6706,11 +6706,11 @@
         },
         "name": "Kasula Farm - Cotton Farming",
         "output": {
-            "Cotton": 12.63,
-            "Cotton Yarn": 0.75
+            "Cotton": 25.26,
+            "Cotton Yarn": 1.5
         },
         "parent": 1161,
-        "workload": 200
+        "workload": 400
     },
     "1207": {
         "contribution": 2,
@@ -6727,10 +6727,10 @@
         },
         "name": "Kasula Farm - Cinnamon Farming",
         "output": {
-            "Cinnamon": 13.29
+            "Cinnamon": 26.58
         },
         "parent": 1161,
-        "workload": 200
+        "workload": 400
     },
     "1208": {
         "contribution": 3,
@@ -6747,12 +6747,12 @@
         },
         "name": "Abandoned Iron Mine - Mining",
         "output": {
-            "Platinum Ore": 0.95,
-            "Powder of Time": 1.86,
-            "Zinc Ore": 7.86
+            "Platinum Ore": 1.9,
+            "Powder of Time": 3.72,
+            "Zinc Ore": 15.72
         },
         "parent": 1144,
-        "workload": 500
+        "workload": 1000
     },
     "1209": {
         "contribution": 3,
@@ -6769,12 +6769,12 @@
         },
         "name": "Abandoned Iron Mine - Mining",
         "output": {
-            "Iron Ore": 10.53,
-            "Powder of Darkness": 1.8,
-            "Rough Black Crystal": 1.08
+            "Iron Ore": 21.06,
+            "Powder of Darkness": 3.6,
+            "Rough Black Crystal": 2.16
         },
         "parent": 1144,
-        "workload": 200
+        "workload": 400
     },
     "1210": {
         "contribution": 3,
@@ -6791,11 +6791,11 @@
         },
         "name": "Elric Shrine - Gathering",
         "output": {
-            "Big Sky Mushroom": 0.71,
-            "Sky Mushroom": 9.29
+            "Big Sky Mushroom": 1.42,
+            "Sky Mushroom": 18.58
         },
         "parent": 1155,
-        "workload": 150
+        "workload": 300
     },
     "1211": {
         "contribution": 2,
@@ -6812,11 +6812,11 @@
         },
         "name": "Kamasylve Temple - Gathering",
         "output": {
-            "Big Tiger Mushroom": 0.66,
-            "Tiger Mushroom": 9.79
+            "Big Tiger Mushroom": 1.32,
+            "Tiger Mushroom": 19.58
         },
         "parent": 1136,
-        "workload": 150
+        "workload": 300
     },
     "1212": {
         "contribution": 3,
@@ -6834,12 +6834,12 @@
         },
         "name": "Mediah Northern Highlands - Lumbering",
         "output": {
-            "Old Tree Bark": 0.68,
-            "White Cedar Sap": 0.78,
-            "White Cedar Timber": 13.07
+            "Old Tree Bark": 1.36,
+            "White Cedar Sap": 1.56,
+            "White Cedar Timber": 26.14
         },
         "parent": 1134,
-        "workload": 200
+        "workload": 400
     },
     "1213": {
         "contribution": 3,
@@ -6857,12 +6857,12 @@
         },
         "name": "Ancient Fissure - Mining",
         "output": {
-            "Powder of Time": 1.96,
-            "Rough Red Crystal": 1.14,
-            "Zinc Ore": 10.39
+            "Powder of Time": 3.92,
+            "Rough Red Crystal": 2.28,
+            "Zinc Ore": 20.78
         },
         "parent": 1162,
-        "workload": 200
+        "workload": 400
     },
     "1214": {
         "contribution": 2,
@@ -6879,11 +6879,11 @@
         },
         "name": "Marni's 2nd Lab - Gathering",
         "output": {
-            "Bunch of Silk Honey Grass": 0.07,
-            "Silk Honey Grass": 11.79
+            "Bunch of Silk Honey Grass": 0.14,
+            "Silk Honey Grass": 23.58
         },
         "parent": 1146,
-        "workload": 150
+        "workload": 300
     },
     "1215": {
         "contribution": 3,
@@ -6901,12 +6901,12 @@
         },
         "name": "Elric Shrine - Lumbering",
         "output": {
-            "Bloody Tree Knot": 1.16,
-            "White Cedar Sap": 1.01,
-            "White Cedar Timber": 10.63
+            "Bloody Tree Knot": 2.32,
+            "White Cedar Sap": 2.02,
+            "White Cedar Timber": 21.26
         },
         "parent": 1155,
-        "workload": 500
+        "workload": 1000
     },
     "1216": {
         "contribution": 3,
@@ -6925,12 +6925,12 @@
         },
         "name": "Mediah Northern Highlands - Lumbering",
         "output": {
-            "Maple Sap": 1.18,
-            "Maple Timber": 10.41,
-            "Old Tree Bark": 1.02
+            "Maple Sap": 2.36,
+            "Maple Timber": 20.82,
+            "Old Tree Bark": 2.04
         },
         "parent": 1134,
-        "workload": 200
+        "workload": 400
     },
     "1217": {
         "contribution": 3,
@@ -6947,11 +6947,11 @@
         },
         "name": "Ancient Fissure - Gathering",
         "output": {
-            "Bunch of Silk Honey Grass": 0.26,
-            "Silk Honey Grass": 12.26
+            "Bunch of Silk Honey Grass": 0.52,
+            "Silk Honey Grass": 24.52
         },
         "parent": 1162,
-        "workload": 150
+        "workload": 300
     },
     "1218": {
         "contribution": 3,
@@ -6969,12 +6969,12 @@
         },
         "name": "Mediah Shore - Mining",
         "output": {
-            "Copper Ore": 10.2,
-            "Powder of Flame": 1.79,
-            "Rough Opal": 0.92
+            "Copper Ore": 20.4,
+            "Powder of Flame": 3.58,
+            "Rough Opal": 1.84
         },
         "parent": 1163,
-        "workload": 200
+        "workload": 400
     },
     "1219": {
         "contribution": 3,
@@ -6992,12 +6992,12 @@
         },
         "name": "Stonetail Wasteland - Lumbering",
         "output": {
-            "Acacia Sap": 0.76,
-            "Acacia Timber": 13.83,
-            "Bloody Tree Knot": 0.71
+            "Acacia Sap": 1.52,
+            "Acacia Timber": 27.66,
+            "Bloody Tree Knot": 1.42
         },
         "parent": 1133,
-        "workload": 200
+        "workload": 400
     },
     "1220": {
         "contribution": 3,
@@ -7038,11 +7038,11 @@
         },
         "name": "Kamasylve Temple - Flax Farming",
         "output": {
-            "Flax": 10.26,
-            "Flax Thread": 0.54
+            "Flax": 20.52,
+            "Flax Thread": 1.08
         },
         "parent": 1136,
-        "workload": 200
+        "workload": 400
     },
     "1301": {
         "childnodes": [
@@ -9036,10 +9036,10 @@
         },
         "name": "Gorgo Rock Belt - Gathering",
         "output": {
-            "Pistachio": 21.34
+            "Pistachio": 42.68
         },
         "parent": 1304,
-        "workload": 150
+        "workload": 300
     },
     "1502": {
         "contribution": 1,
@@ -9056,12 +9056,12 @@
         },
         "name": "Gorgo Rock Belt - Lumbering",
         "output": {
-            "Elder Tree Plank": 1.55,
-            "Elder Tree Sap": 1.27,
-            "Elder Tree Timber": 17.72
+            "Elder Tree Plank": 3.1,
+            "Elder Tree Sap": 2.54,
+            "Elder Tree Timber": 35.44
         },
         "parent": 1304,
-        "workload": 200
+        "workload": 400
     },
     "1503": {
         "contribution": 1,
@@ -9091,12 +9091,12 @@
         },
         "name": "Veteran's Canyon - Lumbering",
         "output": {
-            "Elder Tree Plank": 1.17,
-            "Elder Tree Sap": 1.01,
-            "Elder Tree Timber": 17.92
+            "Elder Tree Plank": 2.34,
+            "Elder Tree Sap": 2.02,
+            "Elder Tree Timber": 35.84
         },
         "parent": 1305,
-        "workload": 200
+        "workload": 400
     },
     "1505": {
         "contribution": 3,
@@ -9114,11 +9114,11 @@
         },
         "name": "Kunid's Shelter - Gathering",
         "output": {
-            "Bag of Muddy Water": 15.6,
-            "Purified Water": 1.42
+            "Bag of Muddy Water": 31.2,
+            "Purified Water": 2.84
         },
         "parent": 1307,
-        "workload": 150
+        "workload": 300
     },
     "1506": {
         "contribution": 3,
@@ -9136,11 +9136,11 @@
         },
         "name": "Leical Falls - Gathering",
         "output": {
-            "Bag of Muddy Water": 9.2,
-            "Purified Water": 1.97
+            "Bag of Muddy Water": 18.4,
+            "Purified Water": 3.94
         },
         "parent": 1308,
-        "workload": 150
+        "workload": 300
     },
     "1507": {
         "contribution": 3,
@@ -9157,12 +9157,12 @@
         },
         "name": "Pujiya Canyon - Mining",
         "output": {
-            "Copper Ore": 15.66,
-            "Powder of Flame": 2.39,
-            "Rough Opal": 1.43
+            "Copper Ore": 31.32,
+            "Powder of Flame": 4.78,
+            "Rough Opal": 2.86
         },
         "parent": 1309,
-        "workload": 200
+        "workload": 400
     },
     "1508": {
         "contribution": 3,
@@ -9179,12 +9179,12 @@
         },
         "name": "Bashim Habitat - Mining",
         "output": {
-            "Iron Ore": 14.78,
-            "Powder of Darkness": 2.41,
-            "Rough Black Crystal": 1.32
+            "Iron Ore": 29.56,
+            "Powder of Darkness": 4.82,
+            "Rough Black Crystal": 2.64
         },
         "parent": 1310,
-        "workload": 200
+        "workload": 400
     },
     "1509": {
         "contribution": 3,
@@ -9200,10 +9200,10 @@
         },
         "name": "Capotia - Gathering",
         "output": {
-            "Teff": 21.19
+            "Teff": 42.38
         },
         "parent": 1318,
-        "workload": 150
+        "workload": 300
     },
     "1510": {
         "contribution": 3,
@@ -9219,12 +9219,12 @@
         },
         "name": "Capotia - Mining",
         "output": {
-            "Copper Ore": 18.13,
-            "Powder of Flame": 2.53,
-            "Rough Opal": 1.34
+            "Copper Ore": 36.26,
+            "Powder of Flame": 5.06,
+            "Rough Opal": 2.68
         },
         "parent": 1318,
-        "workload": 200
+        "workload": 400
     },
     "1512": {
         "contribution": 3,
@@ -9242,12 +9242,12 @@
         },
         "name": "Martyr's Haven - Lumbering",
         "output": {
-            "Cactus Rind": 18.62,
-            "Cactus Sap": 1.04,
-            "Cactus Thorn": 1.15
+            "Cactus Rind": 37.24,
+            "Cactus Sap": 2.08,
+            "Cactus Thorn": 2.3
         },
         "parent": 1325,
-        "workload": 200
+        "workload": 400
     },
     "1513": {
         "contribution": 3,
@@ -9263,12 +9263,12 @@
         },
         "name": "Martyr's Haven - Mining",
         "output": {
-            "Iron Ore": 15.11,
-            "Powder of Darkness": 2.5,
-            "Rough Black Crystal": 1.13
+            "Iron Ore": 30.22,
+            "Powder of Darkness": 5.0,
+            "Rough Black Crystal": 2.26
         },
         "parent": 1325,
-        "workload": 200
+        "workload": 400
     },
     "1514": {
         "contribution": 3,
@@ -9284,10 +9284,10 @@
         },
         "name": "Bambu Valley - Gathering",
         "output": {
-            "Freekeh": 21.69
+            "Freekeh": 43.38
         },
         "parent": 1328,
-        "workload": 150
+        "workload": 300
     },
     "1515": {
         "contribution": 3,
@@ -9305,10 +9305,10 @@
         },
         "name": "Iris - Gathering",
         "output": {
-            "Nutmeg": 22.0
+            "Nutmeg": 44.0
         },
         "parent": 1329,
-        "workload": 150
+        "workload": 300
     },
     "1516": {
         "contribution": 3,
@@ -9324,12 +9324,12 @@
         },
         "name": "Iris - Lumbering",
         "output": {
-            "Elder Tree Plank": 1.09,
-            "Elder Tree Sap": 0.97,
-            "Elder Tree Timber": 18.37
+            "Elder Tree Plank": 2.18,
+            "Elder Tree Sap": 1.94,
+            "Elder Tree Timber": 36.74
         },
         "parent": 1329,
-        "workload": 200
+        "workload": 400
     },
     "1517": {
         "contribution": 3,
@@ -9345,12 +9345,12 @@
         },
         "name": "Kmach Canyon - Mining",
         "output": {
-            "Powder of Crevice": 2.61,
-            "Rough Blue Crystal": 0.53,
-            "Vanadium Ore": 6.25
+            "Powder of Crevice": 5.22,
+            "Rough Blue Crystal": 1.06,
+            "Vanadium Ore": 12.5
         },
         "parent": 1330,
-        "workload": 200
+        "workload": 400
     },
     "1518": {
         "contribution": 3,
@@ -9366,10 +9366,10 @@
         },
         "name": "Kmach Canyon - Gathering",
         "output": {
-            "Star Anise": 21.77
+            "Star Anise": 43.54
         },
         "parent": 1330,
-        "workload": 150
+        "workload": 300
     },
     "1519": {
         "contribution": 3,
@@ -9387,10 +9387,10 @@
         },
         "name": "Aakman - Gathering",
         "output": {
-            "Fig": 22.25
+            "Fig": 44.5
         },
         "parent": 1344,
-        "workload": 150
+        "workload": 300
     },
     "1520": {
         "contribution": 3,
@@ -9406,10 +9406,10 @@
         },
         "name": "Crescent Shrine - Gathering",
         "output": {
-            "Date Palm": 22.7
+            "Date Palm": 45.4
         },
         "parent": 1345,
-        "workload": 150
+        "workload": 300
     },
     "1521": {
         "contribution": 3,
@@ -9425,12 +9425,12 @@
         },
         "name": "Crescent Shrine - Mining",
         "output": {
-            "Powder of Flame": 2.57,
-            "Rough Violet Crystal": 0.55,
-            "Titanium Ore": 5.26
+            "Powder of Flame": 5.14,
+            "Rough Violet Crystal": 1.1,
+            "Titanium Ore": 10.52
         },
         "parent": 1345,
-        "workload": 200
+        "workload": 400
     },
     "1522": {
         "contribution": 3,
@@ -9446,12 +9446,12 @@
         },
         "name": "Crescent Mountains - Mining",
         "output": {
-            "Iron Ore": 14.81,
-            "Powder of Darkness": 2.16,
-            "Rough Black Crystal": 0.97
+            "Iron Ore": 29.62,
+            "Powder of Darkness": 4.32,
+            "Rough Black Crystal": 1.94
         },
         "parent": 1346,
-        "workload": 200
+        "workload": 400
     },
     "1523": {
         "contribution": 3,
@@ -9467,12 +9467,12 @@
         },
         "name": "Crescent Mountains - Mining",
         "output": {
-            "Iron Ore": 14.87,
-            "Powder of Darkness": 2.48,
-            "Rough Black Crystal": 1.44
+            "Iron Ore": 29.74,
+            "Powder of Darkness": 4.96,
+            "Rough Black Crystal": 2.88
         },
         "parent": 1346,
-        "workload": 200
+        "workload": 400
     },
     "1524": {
         "contribution": 3,
@@ -9488,10 +9488,10 @@
         },
         "name": "Titium Valley - Gathering",
         "output": {
-            "Pistachio": 21.76
+            "Pistachio": 43.52
         },
         "parent": 1347,
-        "workload": 150
+        "workload": 300
     },
     "1525": {
         "contribution": 3,
@@ -9507,10 +9507,10 @@
         },
         "name": "Titium Valley - Gathering",
         "output": {
-            "Teff": 21.75
+            "Teff": 43.5
         },
         "parent": 1347,
-        "workload": 150
+        "workload": 300
     },
     "1526": {
         "contribution": 3,
@@ -9526,12 +9526,12 @@
         },
         "name": "Titium Valley - Lumbering",
         "output": {
-            "Palm Plank": 1.05,
-            "Palm Sap": 1.22,
-            "Palm Timber": 17.43
+            "Palm Plank": 2.1,
+            "Palm Sap": 2.44,
+            "Palm Timber": 34.86
         },
         "parent": 1347,
-        "workload": 200
+        "workload": 400
     },
     "1527": {
         "contribution": 3,
@@ -9548,10 +9548,10 @@
         },
         "name": "Bazaar Farmland - Nutmeg",
         "output": {
-            "Nutmeg": 21.58
+            "Nutmeg": 43.16
         },
         "parent": 1351,
-        "workload": 200
+        "workload": 400
     },
     "1528": {
         "contribution": 3,
@@ -9568,10 +9568,10 @@
         },
         "name": "Bazaar Farmland - Teff",
         "output": {
-            "Teff": 20.86
+            "Teff": 41.72
         },
         "parent": 1351,
-        "workload": 200
+        "workload": 400
     },
     "1529": {
         "contribution": 3,
@@ -9587,10 +9587,10 @@
         },
         "name": "Shakatu Farmland - Fig",
         "output": {
-            "Fig": 20.81
+            "Fig": 41.62
         },
         "parent": 1352,
-        "workload": 200
+        "workload": 400
     },
     "1530": {
         "contribution": 3,
@@ -9606,10 +9606,10 @@
         },
         "name": "Shakatu Farmland - Fig",
         "output": {
-            "Fig": 20.68
+            "Fig": 41.36
         },
         "parent": 1352,
-        "workload": 200
+        "workload": 400
     },
     "1531": {
         "contribution": 3,
@@ -9625,10 +9625,10 @@
         },
         "name": "Shakatu Farmland - Star Anise",
         "output": {
-            "Star Anise": 20.97
+            "Star Anise": 41.94
         },
         "parent": 1352,
-        "workload": 200
+        "workload": 400
     },
     "1532": {
         "contribution": 3,
@@ -9645,10 +9645,10 @@
         },
         "name": "Altas Farmland - Teff",
         "output": {
-            "Teff": 20.85
+            "Teff": 41.7
         },
         "parent": 1353,
-        "workload": 200
+        "workload": 400
     },
     "1533": {
         "contribution": 3,
@@ -9665,10 +9665,10 @@
         },
         "name": "Altas Farmland - Teff",
         "output": {
-            "Teff": 20.32
+            "Teff": 40.64
         },
         "parent": 1353,
-        "workload": 200
+        "workload": 400
     },
     "1534": {
         "contribution": 3,
@@ -9685,10 +9685,10 @@
         },
         "name": "Erdal Farm - Pistachio",
         "output": {
-            "Pistachio": 22.83
+            "Pistachio": 45.66
         },
         "parent": 1354,
-        "workload": 200
+        "workload": 400
     },
     "1535": {
         "contribution": 3,
@@ -9705,10 +9705,10 @@
         },
         "name": "Erdal Farm - Date Palm",
         "output": {
-            "Date Palm": 21.08
+            "Date Palm": 42.16
         },
         "parent": 1354,
-        "workload": 200
+        "workload": 400
     },
     "1536": {
         "contribution": 3,
@@ -9724,10 +9724,10 @@
         },
         "name": "Valencia Plantation - Pistachio",
         "output": {
-            "Pistachio": 21.28
+            "Pistachio": 42.56
         },
         "parent": 1355,
-        "workload": 200
+        "workload": 400
     },
     "1537": {
         "contribution": 3,
@@ -9743,10 +9743,10 @@
         },
         "name": "Valencia Plantation - Date Palm",
         "output": {
-            "Date Palm": 21.19
+            "Date Palm": 42.38
         },
         "parent": 1355,
-        "workload": 200
+        "workload": 400
     },
     "1538": {
         "contribution": 3,
@@ -9762,10 +9762,10 @@
         },
         "name": "Valencia Plantation - Freekeh",
         "output": {
-            "Freekeh": 24.21
+            "Freekeh": 48.42
         },
         "parent": 1355,
-        "workload": 200
+        "workload": 400
     },
     "1539": {
         "contribution": 3,
@@ -9781,10 +9781,10 @@
         },
         "name": "Fohalam Farm - Teff",
         "output": {
-            "Teff": 21.17
+            "Teff": 42.34
         },
         "parent": 1356,
-        "workload": 200
+        "workload": 400
     },
     "1540": {
         "contribution": 3,
@@ -9800,10 +9800,10 @@
         },
         "name": "Fohalam Farm - Teff",
         "output": {
-            "Teff": 21.09
+            "Teff": 42.18
         },
         "parent": 1356,
-        "workload": 200
+        "workload": 400
     },
     "1553": {
         "contribution": 1,
@@ -9842,12 +9842,12 @@
         },
         "name": "Areha Palm Forest - Palm Tree",
         "output": {
-            "Coconut": 2.73,
-            "Palm Plank": 0.99,
-            "Palm Timber": 18.36
+            "Coconut": 5.46,
+            "Palm Plank": 1.98,
+            "Palm Timber": 36.72
         },
         "parent": 1379,
-        "workload": 200
+        "workload": 400
     },
     "1555": {
         "contribution": 3,
@@ -9864,12 +9864,12 @@
         },
         "name": "Areha Palm Forest - Palm Tree",
         "output": {
-            "Coconut": 2.98,
-            "Palm Plank": 1.28,
-            "Palm Timber": 16.33
+            "Coconut": 5.96,
+            "Palm Plank": 2.56,
+            "Palm Timber": 32.66
         },
         "parent": 1379,
-        "workload": 200
+        "workload": 400
     },
     "1556": {
         "contribution": 2,
@@ -9887,12 +9887,12 @@
         },
         "name": "Gavinya Coastal Cliff - Vanadium",
         "output": {
-            "Powder of Darkness": 2.55,
-            "Rough Opal": 0.53,
-            "Vanadium Ore": 6.85
+            "Powder of Darkness": 5.1,
+            "Rough Opal": 1.06,
+            "Vanadium Ore": 13.7
         },
         "parent": 1389,
-        "workload": 200
+        "workload": 400
     },
     "1557": {
         "contribution": 2,
@@ -9910,11 +9910,11 @@
         },
         "name": "Gavinya Coastal Cliff - Sunrise Herb",
         "output": {
-            "Pile of Sunrise Herbs": 0.72,
-            "Sunrise Herb": 10.91
+            "Pile of Sunrise Herbs": 1.44,
+            "Sunrise Herb": 21.82
         },
         "parent": 1389,
-        "workload": 150
+        "workload": 300
     },
     "1558": {
         "contribution": 2,
@@ -9932,12 +9932,12 @@
         },
         "name": "Gavinya Great Crater - Titanium",
         "output": {
-            "Powder of Flame": 2.28,
-            "Rough Violet Crystal": 0.52,
-            "Titanium Ore": 5.36
+            "Powder of Flame": 4.56,
+            "Rough Violet Crystal": 1.04,
+            "Titanium Ore": 10.72
         },
         "parent": 1388,
-        "workload": 200
+        "workload": 400
     },
     "1559": {
         "contribution": 2,
@@ -9955,12 +9955,12 @@
         },
         "name": "Ivero Cliff - Arrow Mushroom",
         "output": {
-            "Arrow Mushroom": 5.28,
-            "High-Quality Arrow Mushroom": 0.26,
-            "Special Arrow Mushroom": 0.18
+            "Arrow Mushroom": 10.56,
+            "High-Quality Arrow Mushroom": 0.52,
+            "Special Arrow Mushroom": 0.36
         },
         "parent": 1392,
-        "workload": 150
+        "workload": 300
     },
     "1560": {
         "contribution": 2,
@@ -9978,12 +9978,12 @@
         },
         "name": "Northern Sand Dune - Cactus",
         "output": {
-            "Cactus Rind": 18.23,
-            "Cactus Sap": 1.35,
-            "Cactus Thorn": 1.3
+            "Cactus Rind": 36.46,
+            "Cactus Sap": 2.7,
+            "Cactus Thorn": 2.6
         },
         "parent": 1385,
-        "workload": 200
+        "workload": 400
     },
     "1561": {
         "contribution": 2,
@@ -10001,12 +10001,12 @@
         },
         "name": "Gavinya Volcano Zone - Vanadium",
         "output": {
-            "Powder of Crevice": 2.7,
-            "Rough Blue Crystal": 0.56,
-            "Vanadium Ore": 5.85
+            "Powder of Crevice": 5.4,
+            "Rough Blue Crystal": 1.12,
+            "Vanadium Ore": 11.7
         },
         "parent": 1387,
-        "workload": 200
+        "workload": 400
     },
     "1562": {
         "contribution": 2,
@@ -10024,12 +10024,12 @@
         },
         "name": "Gavinya Volcano Zone - Titanium",
         "output": {
-            "Powder of Flame": 1.85,
-            "Rough Violet Crystal": 0.64,
-            "Titanium Ore": 5.34
+            "Powder of Flame": 3.7,
+            "Rough Violet Crystal": 1.28,
+            "Titanium Ore": 10.68
         },
         "parent": 1387,
-        "workload": 200
+        "workload": 400
     },
     "1564": {
         "contribution": 3,
@@ -10057,11 +10057,11 @@
         },
         "name": "Erdal - Silk Culture",
         "output": {
-            "Silk Thread": 0.48,
-            "Silkworm Cocoon": 17.79
+            "Silk Thread": 0.96,
+            "Silkworm Cocoon": 35.58
         },
         "parent": 1354,
-        "workload": 200
+        "workload": 400
     },
     "1566": {
         "contribution": 5,
@@ -10555,11 +10555,11 @@
         },
         "name": "Farming",
         "output": {
-            "High-Quality Strawberry": 0.28,
-            "Strawberry": 9.1
+            "High-Quality Strawberry": 0.56,
+            "Strawberry": 18.2
         },
         "parent": 1610,
-        "workload": 280
+        "workload": 560
     },
     "1635": {
         "contribution": 3,
@@ -10576,12 +10576,12 @@
         },
         "name": "Lumbering",
         "output": {
-            "Moss Tree Plank": 1.3,
-            "Moss Tree Sap": 1.08,
-            "Moss Tree Timber": 18.43
+            "Moss Tree Plank": 2.6,
+            "Moss Tree Sap": 2.16,
+            "Moss Tree Timber": 36.86
         },
         "parent": 1605,
-        "workload": 280
+        "workload": 560
     },
     "1636": {
         "contribution": 2,
@@ -10598,11 +10598,11 @@
         },
         "name": "Mining",
         "output": {
-            "Noc Ore": 4.65,
-            "Powder of Time": 1.65
+            "Noc Ore": 9.3,
+            "Powder of Time": 3.3
         },
         "parent": 1609,
-        "workload": 280
+        "workload": 560
     },
     "1637": {
         "contribution": 2,
@@ -10641,12 +10641,12 @@
         },
         "name": "Lumbering",
         "output": {
-            "Loopy Tree Plank": 1.07,
-            "Loopy Tree Sap": 3.09,
-            "Loopy Tree Timber": 17.95
+            "Loopy Tree Plank": 2.14,
+            "Loopy Tree Sap": 6.18,
+            "Loopy Tree Timber": 35.9
         },
         "parent": 1618,
-        "workload": 280
+        "workload": 560
     },
     "1639": {
         "contribution": 2,
@@ -10663,11 +10663,11 @@
         },
         "name": "Gathering",
         "output": {
-            "Blue Umbrella Mushroom": 6.7,
-            "Pink Trumpet Mushroom": 6.6
+            "Blue Umbrella Mushroom": 13.4,
+            "Pink Trumpet Mushroom": 13.2
         },
         "parent": 1624,
-        "workload": 280
+        "workload": 560
     },
     "1640": {
         "contribution": 2,
@@ -10684,11 +10684,11 @@
         },
         "name": "Grow Mushroom",
         "output": {
-            "Green Pendulous Mushroom": 6.9,
-            "Volcanic Umbrella Mushroom": 7.7
+            "Green Pendulous Mushroom": 13.8,
+            "Volcanic Umbrella Mushroom": 15.4
         },
         "parent": 1629,
-        "workload": 280
+        "workload": 560
     },
     "1641": {
         "contribution": 2,
@@ -10705,11 +10705,11 @@
         },
         "name": "Grow Mushroom",
         "output": {
-            "White Flower Mushroom": 7.3,
-            "White Umbrella Mushroom": 5.2
+            "White Flower Mushroom": 14.6,
+            "White Umbrella Mushroom": 10.4
         },
         "parent": 1628,
-        "workload": 280
+        "workload": 560
     },
     "1642": {
         "contribution": 2,
@@ -10726,11 +10726,11 @@
         },
         "name": "Mining",
         "output": {
-            "Noc Ore": 4.78,
-            "Powder of Earth": 1.5
+            "Noc Ore": 9.56,
+            "Powder of Earth": 3.0
         },
         "parent": 1622,
-        "workload": 280
+        "workload": 560
     },
     "1645": {
         "contribution": 2,
@@ -10747,11 +10747,11 @@
         },
         "name": "Mining",
         "output": {
-            "Noc Ore": 4.96,
-            "Powder of Crevice": 1.42
+            "Noc Ore": 9.92,
+            "Powder of Crevice": 2.84
         },
         "parent": 1625,
-        "workload": 280
+        "workload": 560
     },
     "1646": {
         "contribution": 2,
@@ -11130,10 +11130,10 @@
         },
         "name": "Duvencrune Farmland - Farming",
         "output": {
-            "Barley": 9.0
+            "Barley": 18.0
         },
         "parent": 1650,
-        "workload": 280
+        "workload": 560
     },
     "1672": {
         "contribution": 3,
@@ -11149,10 +11149,10 @@
         },
         "name": "Duvencrune Farmland - Farming",
         "output": {
-            "Corn": 9.0
+            "Corn": 18.0
         },
         "parent": 1650,
-        "workload": 280
+        "workload": 560
     },
     "1673": {
         "contribution": 2,
@@ -11168,10 +11168,10 @@
         },
         "name": "Marak Farm - Farming",
         "output": {
-            "Corn": 9.0
+            "Corn": 18.0
         },
         "parent": 1670,
-        "workload": 280
+        "workload": 560
     },
     "1674": {
         "contribution": 2,
@@ -11187,10 +11187,10 @@
         },
         "name": "Marak Farm - Farming",
         "output": {
-            "Barley": 9.0
+            "Barley": 18.0
         },
         "parent": 1670,
-        "workload": 280
+        "workload": 560
     },
     "1675": {
         "contribution": 2,
@@ -11206,10 +11206,10 @@
         },
         "name": "Gervish Mountains - Gathering",
         "output": {
-            "Bracken": 1.65
+            "Bracken": 3.3
         },
         "parent": 1664,
-        "workload": 280
+        "workload": 560
     },
     "1676": {
         "contribution": 2,
@@ -11225,10 +11225,10 @@
         },
         "name": "Gervish Mountains - Gathering",
         "output": {
-            "Sunrise Herb": 3.0
+            "Sunrise Herb": 6.0
         },
         "parent": 1664,
-        "workload": 280
+        "workload": 560
     },
     "1677": {
         "contribution": 2,
@@ -11244,10 +11244,10 @@
         },
         "name": "Tshira Ruins - Gathering",
         "output": {
-            "Bracken": 1.65
+            "Bracken": 3.3
         },
         "parent": 1668,
-        "workload": 280
+        "workload": 560
     },
     "1678": {
         "contribution": 2,
@@ -11263,10 +11263,10 @@
         },
         "name": "Tshira Ruins - Gathering",
         "output": {
-            "Dry Mane Grass": 3.0
+            "Dry Mane Grass": 6.0
         },
         "parent": 1668,
-        "workload": 280
+        "workload": 560
     },
     "1679": {
         "contribution": 5,
@@ -11285,11 +11285,11 @@
         },
         "name": "Akum Rocky Mountain - Mining",
         "output": {
-            "Noc Ore": 8.5,
-            "Rough Lapis Lazuli": 0.4
+            "Noc Ore": 17.0,
+            "Rough Lapis Lazuli": 0.8
         },
         "parent": 1653,
-        "workload": 280
+        "workload": 560
     },
     "1680": {
         "contribution": 5,
@@ -11308,21 +11308,21 @@
         },
         "name": "Akum Rocky Mountain - Mining",
         "output": {
-            "Iron Ore": 8.5,
-            "Rough Lapis Lazuli": 0.4
+            "Iron Ore": 17.0,
+            "Rough Lapis Lazuli": 0.8
         },
         "parent": 1653,
-        "workload": 280
+        "workload": 560
     },
     "1681": {
         "contribution": 5,
-         "distances": {
+        "distances": {
             "Duvencrune": 2282,
             "Grana": 4281,
             "Old Wisdom Tree": 2191,
             "Trent": 5172
         },
-       "links": [
+        "links": [
             1654
         ],
         "location": {
@@ -11331,11 +11331,11 @@
         },
         "name": "Khalk Canyon - Mining",
         "output": {
-            "Mythril": 0.01,
-            "Noc Ore": 8.5
+            "Mythril": 0.02,
+            "Noc Ore": 17.0
         },
         "parent": 1654,
-        "workload": 280
+        "workload": 560
     },
     "1682": {
         "contribution": 5,
@@ -11354,11 +11354,11 @@
         },
         "name": "Khalk Canyon - Mining",
         "output": {
-            "Mythril": 0.01,
-            "Zinc Ore": 8.5
+            "Mythril": 0.02,
+            "Zinc Ore": 17.0
         },
         "parent": 1654,
-        "workload": 280
+        "workload": 560
     },
     "1683": {
         "contribution": 5,
@@ -11377,12 +11377,12 @@
         },
         "name": "Dormann Lumber Camp - Lumbering",
         "output": {
-            "Thuja Plank": 1.3,
-            "Thuja Sap": 1.15,
-            "Thuja Timber": 18.0
+            "Thuja Plank": 2.6,
+            "Thuja Sap": 2.3,
+            "Thuja Timber": 36.0
         },
         "parent": 1665,
-        "workload": 280
+        "workload": 560
     },
     "1684": {
         "contribution": 5,
@@ -11401,12 +11401,12 @@
         },
         "name": "Dormann Lumber Camp - Lumbering",
         "output": {
-            "Fir Plank": 1.3,
-            "Fir Sap": 1.15,
-            "Fir Timber": 18.0
+            "Fir Plank": 2.6,
+            "Fir Sap": 2.3,
+            "Fir Timber": 36.0
         },
         "parent": 1665,
-        "workload": 280
+        "workload": 560
     },
     "1685": {
         "contribution": 5,
@@ -11426,12 +11426,12 @@
         },
         "name": "Khimut Lumber Camp - Lumbering",
         "output": {
-            "Pine Plank": 1.3,
-            "Pine Sap": 1.15,
-            "Pine Timber": 18.0
+            "Pine Plank": 2.6,
+            "Pine Sap": 2.3,
+            "Pine Timber": 36.0
         },
         "parent": 1666,
-        "workload": 280
+        "workload": 560
     },
     "1686": {
         "contribution": 5,
@@ -11451,12 +11451,12 @@
         },
         "name": "Khimut Lumber Camp - Lumbering",
         "output": {
-            "Birch Plank": 1.3,
-            "Birch Sap": 1.15,
-            "Birch Timber": 18.0
+            "Birch Plank": 2.6,
+            "Birch Sap": 2.3,
+            "Birch Timber": 36.0
         },
         "parent": 1666,
-        "workload": 280
+        "workload": 560
     },
     "1687": {
         "contribution": 3,
@@ -11580,9 +11580,8 @@
         "name": "Star's End - Excavation",
         "output": {
             "Mass of Pure Magic": 0.5,
-            "Trace of Violence": 1.0,
-            "Trace of Death": 1.0
-
+            "Trace of Death": 1.0,
+            "Trace of Violence": 1.0
         },
         "parent": 1704,
         "workload": 11200
