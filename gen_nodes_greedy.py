@@ -370,14 +370,14 @@ def gen_main(sleep, feed, required_gathers, required_nodes, required_monster_nod
 				sub_nodes.insert(0, sub_nodes.pop(sub_nodes.index(node)))
 			nextnode = newnode
 
-		for selected, choices, worker_count, trips, totalvalue, totalcp, nodestates in pool.imap_unordered(gen_graph_partial, gen_set(node_data, len(sub_nodes), sub_nodes, len_cur+1, len_cur, len_cur, used, worker_current, worker_max), chunksize=1):
+		for selected, choices, worker_count, trips, totalvalue, totalcp, nodestates in pool.imap_unordered(gen_graph_partial, gen_set(node_data, len(sub_nodes), sub_nodes, len_cur+1, len_cur, len_cur, used, worker_current, worker_max), chunksize=5):
 			count += 1
 			ratio = round(totalvalue / totalcp, 2)
 			b_value = totalvalue > maxval
 			b_ratio = ratio > maxratio
 			if b_value or b_ratio and totalcp <= max_cp:
 				goodcount += 1
-				print(f"New best.  Completed {count:,} checks with {goodcount:,} results so far. This result value {totalvalue:,} and ratio {ratio:,}")
+				print(f"{max_cp}: New best.  Completed {count:,} checks with {goodcount:,} results so far. This result value {totalvalue:,} and ratio {ratio:,}")
 				output = {}
 				newnode = set([x[0] for x in nodestates]) - set(required_nodes)
 				buf = f'Generated: {datetime.utcnow().strftime("%m/%d/%Y(m/d/y) %H:%M:%S")} UTC\n\n***\nValue: ${totalvalue:,} per day\nContribution: {totalcp}\nSleep Duration: {sleep}\nFood interval: {feed}\nTotal trips(network): {trips:,.2f}, beer {trips/2:,.2f} or chicken {trips/3:,.2f}\n\nBonus workers: {bon_workers}\n\nSeeded Node(s): {newnode}\n\nRequired Nodes:\n{forced_nodes}\n***\n\n'
@@ -409,17 +409,18 @@ def gen_main(sleep, feed, required_gathers, required_nodes, required_monster_nod
 				buf += f'\nset: {sorted(selected)}\n'
 
 				if b_value:
-					with open(f'results/bestvalue.txt', 'w') as f:
+					with open(f'results/{max_cp}_bestvalue.txt', 'w') as f:
 						f.write(buf)
 						maxval = totalvalue
 
 				if b_ratio:
-					with open(f'results/bestratio.txt', 'w') as f:
+					with open(f'results/{max_cp}_bestratio.txt', 'w') as f:
 						f.write(buf)
 						maxratio = ratio
 
 			if not count % 1000:
-				print(f"Completed {count:,} checks with {goodcount:,} results so far. Best Value {maxval:,} and ratio {maxratio:,}")
-		print(f"Completed {count:,} checks with {goodcount:,} results so far. Best Value {maxval:,} and ratio {maxratio:,}")
+				print(f"{max_cp}: Completed {count:,} checks with {goodcount:,} results so far. Best Value {maxval:,} and ratio {maxratio:,}")
+		print(f"{max_cp}: Completed {count:,} checks with {goodcount:,} results so far. Best Value {maxval:,} and ratio {maxratio:,}")
+	return
 
 
