@@ -391,7 +391,7 @@ def gen_main(sleep, feed, required_gathers, required_nodes, required_monster_nod
 							if item not in output:
 								output[item] = 0
 							output[item] += quant
-						buf += f'\n{node_data[node_data[node]["parent"]]["name"] + " -> " if "parent" in node_data[node] else ""}{node_data[node]["name"]}\n{vals}, ${node_value[node][city]["max"]:,}\n{sorted( ((f"{v:,}",k) for k,v in node_value[node][city]["results"].items()), reverse=True)}\n'
+						buf += f'\n{node_data[node_data[node]["parent"]]["name"] + " -> " if "parent" in node_data[node] else ""}{node_data[node]["name"]}\n{vals}, ${node_value[node][city]["max"]:,}\n{[(f"{v:,}",k) for k,v in sorted(node_value[node][city]["results"].items(), key=lambda kv: kv[1], reverse=True)]}\n'
 					buf += '***\n'
 
 				buf += '\n** Nodes to allocate **\n\n'
