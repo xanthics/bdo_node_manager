@@ -12,7 +12,7 @@ def main():
 	# How many cp do you want to allocate to your worker empire
 	# Starting at min and incrementing by step, max inclusive, will be generated
 	c_cp_step = 10
-	c_min_cp = 300
+	c_min_cp = 340
 	c_max_cp = 360
 	# how long are you away from game for "sleep"
 	c_sleep = 10
@@ -21,7 +21,7 @@ def main():
 	# Node material that are required to get
 	r_gathers = set()#{
 #		"Chicken Meat"
-#d	}
+#	}
 	# resource nodes that are required to be in the resulting tree
 	# Note this only supports resource node id
 	r_nodes = [
